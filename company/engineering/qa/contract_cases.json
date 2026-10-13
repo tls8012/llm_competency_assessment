@@ -1,0 +1,108 @@
+{
+  "isolation": "fresh ledger/cache per case except Q1/Q2 continuation",
+  "cases": [
+    {
+      "id": "Q1",
+      "calls": [
+        [
+          "T1",
+          "r1",
+          1000,
+          false
+        ]
+      ],
+      "observed_auth_ids": [
+        1
+      ],
+      "observed_rows": 1
+    },
+    {
+      "id": "Q2",
+      "calls": [
+        [
+          "T1",
+          "r1",
+          1000,
+          false
+        ],
+        [
+          "T1",
+          "r1",
+          1000,
+          false
+        ]
+      ],
+      "observed_auth_ids": [
+        1,
+        1
+      ],
+      "observed_rows": 1
+    },
+    {
+      "id": "Q3",
+      "calls": [
+        [
+          "T1",
+          "r1",
+          1000,
+          true
+        ],
+        [
+          "T1",
+          "r1",
+          1000,
+          false
+        ]
+      ],
+      "observed_auth_ids": [
+        "TimeoutError",
+        2
+      ],
+      "observed_rows": 2
+    },
+    {
+      "id": "Q4",
+      "calls": [
+        [
+          "T1",
+          "r1",
+          1000,
+          false
+        ],
+        [
+          "T1",
+          "r1",
+          2000,
+          false
+        ]
+      ],
+      "observed_auth_ids": [
+        1,
+        1
+      ],
+      "observed_rows": 1
+    },
+    {
+      "id": "Q5",
+      "calls": [
+        [
+          "T1",
+          "r1",
+          1000,
+          false
+        ],
+        [
+          "T2",
+          "r1",
+          1000,
+          false
+        ]
+      ],
+      "observed_auth_ids": [
+        1,
+        2
+      ],
+      "observed_rows": 2
+    }
+  ]
+}

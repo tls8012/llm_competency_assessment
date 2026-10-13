@@ -1,0 +1,49 @@
+{
+  "exported_at": "2027-03-08T09:00:00+09:00",
+  "snapshots": [
+    {
+      "snapshot_at": "2027-03-08T08:30:00+09:00",
+      "project_id": "PRJ-03",
+      "environment": "prod",
+      "primary_last_committed_at": "2027-03-08T08:29:00+09:00",
+      "replica_last_applied_at": "2027-03-08T08:28:00+09:00",
+      "replay_available_through": "2027-03-08T08:29:00+09:00",
+      "backup_snapshot_at": "2027-03-08T07:00:00+09:00",
+      "backlog_checksum": "NOT_YET_VERIFIED",
+      "actual_data_loss": "UNKNOWN"
+    },
+    {
+      "snapshot_at": "2027-03-08T08:55:00+09:00",
+      "project_id": "PRJ-03",
+      "environment": "prod",
+      "primary_last_committed_at": "2027-03-08T08:38:00+09:00",
+      "replica_last_applied_at": "2027-03-08T08:32:00+09:00",
+      "replay_available_through": "2027-03-08T08:38:00+09:00",
+      "backup_snapshot_at": "2027-03-08T08:00:00+09:00",
+      "backlog_checksum": "NOT_YET_VERIFIED",
+      "actual_data_loss": "UNKNOWN"
+    },
+    {
+      "snapshot_at": "2027-03-08T08:30:00+09:00",
+      "project_id": "PRJ-06",
+      "environment": "prod",
+      "primary_last_committed_at": "2027-03-08T08:29:00+09:00",
+      "replica_last_applied_at": "2027-03-08T08:28:00+09:00",
+      "replay_available_through": "2027-03-08T08:29:00+09:00",
+      "backup_snapshot_at": "2027-03-08T07:00:00+09:00",
+      "backlog_checksum": "NOT_YET_VERIFIED",
+      "actual_data_loss": "UNKNOWN"
+    },
+    {
+      "snapshot_at": "2027-03-08T08:55:00+09:00",
+      "project_id": "PRJ-06",
+      "environment": "prod",
+      "primary_last_committed_at": "2027-03-08T08:29:00+09:00",
+      "replica_last_applied_at": "2027-03-08T08:28:00+09:00",
+      "replay_available_through": "2027-03-08T08:29:00+09:00",
+      "backup_snapshot_at": "2027-03-08T08:00:00+09:00",
+      "backlog_checksum": "NOT_YET_VERIFIED",
+      "actual_data_loss": "UNKNOWN"
+    }
+  ]
+}

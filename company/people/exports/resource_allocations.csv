@@ -1,0 +1,1297 @@
+allocation_id,week_start,employee_id,project_id,workstream,hours,status,approval_ref,amends_id,note
+AL-01155,2027-03-08,EMP-01,PRJ-01,customer_support,8,APPROVED,AP-2027-03-08-EMP-01,,existing commitment
+AL-00464,2027-02-01,EMP-08,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00729,2027-02-15,EMP-03,PRJ-03,delivery,8,APPROVED,AP-2027-02-15-EMP-03,,existing commitment
+AL-01199,2027-03-08,EMP-12,PRJ-05,customer_support,14,APPROVED,AP-2027-03-08-EMP-12,,existing commitment
+AL-00589,2027-02-08,EMP-04,PRJ-04,delivery,9,APPROVED,AP-2027-02-08-EMP-04,,existing commitment
+AL-00809,2027-02-15,EMP-23,PRJ-02,delivery,10,APPROVED,AP-2027-02-15-EMP-23,,existing commitment
+AL-01254,2027-03-08,EMP-26,PRJ-05,BAU,10,APPROVED,AP-2027-03-08-EMP-26,,existing commitment
+AL-00933,2027-02-22,EMP-18,PRJ-04,delivery,10,APPROVED,AP-2027-02-22-EMP-18,,existing commitment
+AL-00305,2027-01-25,EMP-05,PRJ-05,delivery,10,APPROVED,AP-2027-01-25-EMP-05,,existing commitment
+AL-01275,2027-03-08,EMP-31,PRJ-03,customer_support,12,APPROVED,AP-2027-03-08-EMP-31,,existing commitment
+AL-01009,2027-03-01,EMP-01,PRJ-01,delivery,13,APPROVED,AP-2027-03-01-EMP-01,,existing commitment
+AL-00238,2027-01-18,EMP-24,PRJ-03,BAU,12,APPROVED,AP-2027-01-18-EMP-24,,existing commitment
+AL-00070,2027-01-11,EMP-18,PRJ-04,BAU,10,APPROVED,AP-2027-01-11-EMP-18,,existing commitment
+AL-00967,2027-02-22,EMP-26,PRJ-05,customer_support,10,APPROVED,AP-2027-02-22-EMP-26,,existing commitment
+AL-01019,2027-03-01,EMP-03,PRJ-03,customer_support,14,APPROVED,AP-2027-03-01-EMP-03,,existing commitment
+AL-00760,2027-02-15,EMP-10,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00210,2027-01-18,EMP-17,PRJ-03,BAU,12,APPROVED,AP-2027-01-18-EMP-17,,existing commitment
+AL-01232,2027-03-08,EMP-20,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00228,2027-01-18,EMP-21,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00342,2027-01-25,EMP-14,PRJ-07,BAU,10,APPROVED,AP-2027-01-25-EMP-14,,existing commitment
+AL-00411,2027-01-25,EMP-31,PRJ-03,customer_support,12,APPROVED,AP-2027-01-25-EMP-31,,existing commitment
+AL-00031,2027-01-11,EMP-08,PRJ-01,customer_support,14,APPROVED,AP-2027-01-11-EMP-08,,existing commitment
+AL-00231,2027-01-18,EMP-22,PRJ-01,customer_support,12,APPROVED,AP-2027-01-18-EMP-22,,existing commitment
+AL-00613,2027-02-08,EMP-10,PRJ-03,delivery,10,APPROVED,AP-2027-02-08-EMP-10,,existing commitment
+AL-00575,2027-02-01,EMP-36,PRJ-01,customer_support,10,APPROVED,AP-2027-02-01-EMP-36,,existing commitment
+AL-00919,2027-02-22,EMP-14,PRJ-07,customer_support,12,APPROVED,AP-2027-02-22-EMP-14,,existing commitment
+AL-00718,2027-02-08,EMP-36,PRJ-01,BAU,12,APPROVED,AP-2027-02-08-EMP-36,,existing commitment
+AL-01118,2027-03-01,EMP-28,PRJ-07,BAU,10,APPROVED,AP-2027-03-01-EMP-28,,existing commitment
+AL-00794,2027-02-15,EMP-19,PRJ-05,BAU,13,APPROVED,AP-2027-02-15-EMP-19,,existing commitment
+AL-00333,2027-01-25,EMP-12,PRJ-05,delivery,8,APPROVED,AP-2027-01-25-EMP-12,,existing commitment
+AL-00201,2027-01-18,EMP-15,PRJ-01,delivery,8,APPROVED,AP-2027-01-18-EMP-15,,existing commitment
+AL-01248,2027-03-08,EMP-24,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01295,2027-03-08,EMP-36,PRJ-01,customer_support,12,APPROVED,AP-2027-03-08-EMP-36,,existing commitment
+AL-00422,2027-01-25,EMP-34,PRJ-06,BAU,9,APPROVED,AP-2027-01-25-EMP-34,,existing commitment
+AL-01181,2027-03-08,EMP-08,PRJ-01,delivery,8,APPROVED,AP-2027-03-08-EMP-08,,existing commitment
+AL-00849,2027-02-15,EMP-33,PRJ-05,delivery,13,APPROVED,AP-2027-02-15-EMP-33,,existing commitment
+AL-00453,2027-02-01,EMP-06,PRJ-06,delivery,10,APPROVED,AP-2027-02-01-EMP-06,,existing commitment
+AL-00790,2027-02-15,EMP-18,PRJ-04,BAU,10,APPROVED,AP-2027-02-15-EMP-18,,existing commitment
+AL-00186,2027-01-18,EMP-11,PRJ-04,BAU,13,APPROVED,AP-2027-01-18-EMP-11,,existing commitment
+AL-00038,2027-01-11,EMP-10,PRJ-03,BAU,8,APPROVED,AP-2027-01-11-EMP-10,,existing commitment
+AL-00614,2027-02-08,EMP-10,PRJ-03,BAU,10,APPROVED,AP-2027-02-08-EMP-10,,existing commitment
+AL-00094,2027-01-11,EMP-24,PRJ-03,BAU,12,APPROVED,AP-2027-01-11-EMP-24,,existing commitment
+AL-00267,2027-01-18,EMP-31,PRJ-03,customer_support,8,APPROVED,AP-2027-01-18-EMP-31,,existing commitment
+AL-00567,2027-02-01,EMP-34,PRJ-06,customer_support,12,APPROVED,AP-2027-02-01-EMP-34,,existing commitment
+AL-01167,2027-03-08,EMP-04,PRJ-04,customer_support,8,APPROVED,AP-2027-03-08-EMP-04,,existing commitment
+AL-00250,2027-01-18,EMP-27,PRJ-06,BAU,13,APPROVED,AP-2027-01-18-EMP-27,,existing commitment
+AL-01198,2027-03-08,EMP-12,PRJ-05,BAU,13,APPROVED,AP-2027-03-08-EMP-12,,existing commitment
+AL-01218,2027-03-08,EMP-17,PRJ-03,BAU,12,APPROVED,AP-2027-03-08-EMP-17,,existing commitment
+AL-00284,2027-01-18,EMP-35,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00421,2027-01-25,EMP-34,PRJ-06,delivery,9,APPROVED,AP-2027-01-25-EMP-34,,existing commitment
+AL-00530,2027-02-01,EMP-25,PRJ-04,BAU,9,APPROVED,AP-2027-02-01-EMP-25,,existing commitment
+AL-00762,2027-02-15,EMP-11,PRJ-04,BAU,9,APPROVED,AP-2027-02-15-EMP-11,,existing commitment
+AL-01237,2027-03-08,EMP-22,PRJ-01,delivery,13,APPROVED,AP-2027-03-08-EMP-22,,existing commitment
+AL-00157,2027-01-18,EMP-04,PRJ-04,delivery,10,APPROVED,AP-2027-01-18-EMP-04,,existing commitment
+AL-00803,2027-02-15,EMP-21,PRJ-07,customer_support,12,APPROVED,AP-2027-02-15-EMP-21,,existing commitment
+AL-00372,2027-01-25,EMP-21,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00205,2027-01-18,EMP-16,PRJ-02,delivery,10,APPROVED,AP-2027-01-18-EMP-16,,existing commitment
+AL-00876,2027-02-22,EMP-03,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00485,2027-02-01,EMP-14,PRJ-07,delivery,13,APPROVED,AP-2027-02-01-EMP-14,,existing commitment
+AL-00712,2027-02-08,EMP-34,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00265,2027-01-18,EMP-31,PRJ-03,delivery,8,APPROVED,AP-2027-01-18-EMP-31,,existing commitment
+AL-00006,2027-01-11,EMP-02,PRJ-02,BAU,10,APPROVED,AP-2027-01-11-EMP-02,,existing commitment
+AL-00297,2027-01-25,EMP-03,PRJ-03,delivery,13,APPROVED,AP-2027-01-25-EMP-03,,existing commitment
+AL-00218,2027-01-18,EMP-19,PRJ-05,BAU,13,APPROVED,AP-2027-01-18-EMP-19,,existing commitment
+AL-00513,2027-02-01,EMP-21,PRJ-07,delivery,12,APPROVED,AP-2027-02-01-EMP-21,,existing commitment
+AL-00637,2027-02-08,EMP-16,PRJ-02,delivery,9,APPROVED,AP-2027-02-08-EMP-16,,existing commitment
+AL-00459,2027-02-01,EMP-07,PRJ-07,customer_support,10,APPROVED,AP-2027-02-01-EMP-07,,existing commitment
+AL-01034,2027-03-01,EMP-07,PRJ-07,BAU,10,APPROVED,AP-2027-03-01-EMP-07,,existing commitment
+AL-00537,2027-02-01,EMP-27,PRJ-06,delivery,10,APPROVED,AP-2027-02-01-EMP-27,,existing commitment
+AL-00432,2027-01-25,EMP-36,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00882,2027-02-22,EMP-05,PRJ-05,BAU,10,APPROVED,AP-2027-02-22-EMP-05,,existing commitment
+AL-01152,2027-03-01,EMP-36,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00379,2027-01-25,EMP-23,PRJ-02,customer_support,12,APPROVED,AP-2027-01-25-EMP-23,,existing commitment
+AL-01055,2027-03-01,EMP-12,PRJ-05,customer_support,14,APPROVED,AP-2027-03-01-EMP-12,,existing commitment
+AL-00295,2027-01-25,EMP-02,PRJ-02,customer_support,12,APPROVED,AP-2027-01-25-EMP-02,,existing commitment
+AL-00916,2027-02-22,EMP-13,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00001,2027-01-11,EMP-01,PRJ-01,delivery,13,APPROVED,AP-2027-01-11-EMP-01,,existing commitment
+AL-00128,2027-01-11,EMP-32,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01023,2027-03-01,EMP-04,PRJ-04,customer_support,14,APPROVED,AP-2027-03-01-EMP-04,,existing commitment
+AL-00845,2027-02-15,EMP-32,PRJ-04,delivery,13,APPROVED,AP-2027-02-15-EMP-32,,existing commitment
+AL-01016,2027-03-01,EMP-02,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01073,2027-03-01,EMP-17,PRJ-03,delivery,9,APPROVED,AP-2027-03-01-EMP-17,,existing commitment
+AL-00240,2027-01-18,EMP-24,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00010,2027-01-11,EMP-03,PRJ-03,BAU,9,APPROVED,AP-2027-01-11-EMP-03,,existing commitment
+AL-01051,2027-03-01,EMP-11,PRJ-04,customer_support,12,APPROVED,AP-2027-03-01-EMP-11,,existing commitment
+AL-00042,2027-01-11,EMP-11,PRJ-04,BAU,13,APPROVED,AP-2027-01-11-EMP-11,,existing commitment
+AL-00671,2027-02-08,EMP-24,PRJ-03,customer_support,12,APPROVED,AP-2027-02-08-EMP-24,,existing commitment
+AL-00225,2027-01-18,EMP-21,PRJ-07,delivery,12,APPROVED,AP-2027-01-18-EMP-21,,existing commitment
+AL-00164,2027-01-18,EMP-05,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00843,2027-02-15,EMP-31,PRJ-03,customer_support,12,APPROVED,AP-2027-02-15-EMP-31,,existing commitment
+AL-00973,2027-02-22,EMP-28,PRJ-07,delivery,10,APPROVED,AP-2027-02-22-EMP-28,,existing commitment
+AL-00756,2027-02-15,EMP-09,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01083,2027-03-01,EMP-19,PRJ-05,customer_support,14,APPROVED,AP-2027-03-01-EMP-19,,existing commitment
+AL-00840,2027-02-15,EMP-30,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00056,2027-01-11,EMP-14,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01133,2027-03-01,EMP-32,PRJ-04,delivery,8,APPROVED,AP-2027-03-01-EMP-32,,existing commitment
+AL-00480,2027-02-01,EMP-12,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00935,2027-02-22,EMP-18,PRJ-04,customer_support,12,APPROVED,AP-2027-02-22-EMP-18,,existing commitment
+AL-01077,2027-03-01,EMP-18,PRJ-04,delivery,9,APPROVED,AP-2027-03-01-EMP-18,,existing commitment
+AL-00291,2027-01-25,EMP-01,PRJ-01,customer_support,12,APPROVED,AP-2027-01-25-EMP-01,,existing commitment
+AL-00788,2027-02-15,EMP-17,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00289,2027-01-25,EMP-01,PRJ-01,delivery,10,APPROVED,AP-2027-01-25-EMP-01,,existing commitment
+AL-00304,2027-01-25,EMP-04,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00825,2027-02-15,EMP-27,PRJ-06,delivery,8,APPROVED,AP-2027-02-15-EMP-27,,existing commitment
+AL-01124,2027-03-01,EMP-29,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00255,2027-01-18,EMP-28,PRJ-07,customer_support,12,APPROVED,AP-2027-01-18-EMP-28,,existing commitment
+AL-00719,2027-02-08,EMP-36,PRJ-01,customer_support,12,APPROVED,AP-2027-02-08-EMP-36,,existing commitment
+AL-00968,2027-02-22,EMP-26,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00978,2027-02-22,EMP-29,PRJ-01,BAU,12,APPROVED,AP-2027-02-22-EMP-29,,existing commitment
+AL-01098,2027-03-01,EMP-23,PRJ-02,BAU,9,APPROVED,AP-2027-03-01-EMP-23,,existing commitment
+AL-00300,2027-01-25,EMP-03,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00293,2027-01-25,EMP-02,PRJ-02,delivery,10,APPROVED,AP-2027-01-25-EMP-02,,existing commitment
+AL-00962,2027-02-22,EMP-25,PRJ-04,BAU,10,APPROVED,AP-2027-02-22-EMP-25,,existing commitment
+AL-01201,2027-03-08,EMP-13,PRJ-06,delivery,10,APPROVED,AP-2027-03-08-EMP-13,,existing commitment
+AL-00162,2027-01-18,EMP-05,PRJ-05,BAU,13,APPROVED,AP-2027-01-18-EMP-05,,existing commitment
+AL-00610,2027-02-08,EMP-09,PRJ-02,BAU,12,APPROVED,AP-2027-02-08-EMP-09,,existing commitment
+AL-00325,2027-01-25,EMP-10,PRJ-03,delivery,12,APPROVED,AP-2027-01-25-EMP-10,,existing commitment
+AL-00285,2027-01-18,EMP-36,PRJ-01,delivery,9,APPROVED,AP-2027-01-18-EMP-36,,existing commitment
+AL-00444,2027-02-01,EMP-03,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00155,2027-01-18,EMP-03,PRJ-03,customer_support,14,APPROVED,AP-2027-01-18-EMP-03,,existing commitment
+AL-00049,2027-01-11,EMP-13,PRJ-06,delivery,9,APPROVED,AP-2027-01-11-EMP-13,,existing commitment
+AL-00927,2027-02-22,EMP-16,PRJ-02,customer_support,12,APPROVED,AP-2027-02-22-EMP-16,,existing commitment
+AL-00011,2027-01-11,EMP-03,PRJ-03,customer_support,10,APPROVED,AP-2027-01-11-EMP-03,,existing commitment
+AL-00624,2027-02-08,EMP-12,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00515,2027-02-01,EMP-21,PRJ-07,customer_support,12,APPROVED,AP-2027-02-01-EMP-21,,existing commitment
+AL-01282,2027-03-08,EMP-33,PRJ-05,BAU,13,APPROVED,AP-2027-03-08-EMP-33,,existing commitment
+AL-00911,2027-02-22,EMP-12,PRJ-05,customer_support,12,APPROVED,AP-2027-02-22-EMP-12,,existing commitment
+AL-00834,2027-02-15,EMP-29,PRJ-01,BAU,8,APPROVED,AP-2027-02-15-EMP-29,,existing commitment
+AL-00124,2027-01-11,EMP-31,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01082,2027-03-01,EMP-19,PRJ-05,BAU,13,APPROVED,AP-2027-03-01-EMP-19,,existing commitment
+AL-00045,2027-01-11,EMP-12,PRJ-05,delivery,12,APPROVED,AP-2027-01-11-EMP-12,,existing commitment
+AL-01148,2027-03-01,EMP-35,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01094,2027-03-01,EMP-22,PRJ-01,BAU,10,APPROVED,AP-2027-03-01-EMP-22,,existing commitment
+AL-00173,2027-01-18,EMP-08,PRJ-01,delivery,10,APPROVED,AP-2027-01-18-EMP-08,,existing commitment
+AL-00504,2027-02-01,EMP-18,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00999,2027-02-22,EMP-34,PRJ-06,customer_support,12,APPROVED,AP-2027-02-22-EMP-34,,existing commitment
+AL-01134,2027-03-01,EMP-32,PRJ-04,BAU,8,APPROVED,AP-2027-03-01-EMP-32,,existing commitment
+AL-00336,2027-01-25,EMP-12,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00339,2027-01-25,EMP-13,PRJ-06,customer_support,8,APPROVED,AP-2027-01-25-EMP-13,,existing commitment
+AL-00243,2027-01-18,EMP-25,PRJ-04,customer_support,8,APPROVED,AP-2027-01-18-EMP-25,,existing commitment
+AL-01238,2027-03-08,EMP-22,PRJ-01,BAU,13,APPROVED,AP-2027-03-08-EMP-22,,existing commitment
+AL-00200,2027-01-18,EMP-14,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01116,2027-03-01,EMP-27,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01258,2027-03-08,EMP-27,PRJ-06,BAU,13,APPROVED,AP-2027-03-08-EMP-27,,existing commitment
+AL-00199,2027-01-18,EMP-14,PRJ-07,customer_support,12,APPROVED,AP-2027-01-18-EMP-14,,existing commitment
+AL-00406,2027-01-25,EMP-30,PRJ-02,BAU,8,APPROVED,AP-2027-01-25-EMP-30,,existing commitment
+AL-01070,2027-03-01,EMP-16,PRJ-02,BAU,12,APPROVED,AP-2027-03-01-EMP-16,,existing commitment
+AL-01092,2027-03-01,EMP-21,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00988,2027-02-22,EMP-31,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00832,2027-02-15,EMP-28,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00534,2027-02-01,EMP-26,PRJ-05,BAU,13,APPROVED,AP-2027-02-01-EMP-26,,existing commitment
+AL-00856,2027-02-15,EMP-34,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00966,2027-02-22,EMP-26,PRJ-05,BAU,9,APPROVED,AP-2027-02-22-EMP-26,,existing commitment
+AL-00779,2027-02-15,EMP-15,PRJ-01,customer_support,12,APPROVED,AP-2027-02-15-EMP-15,,existing commitment
+AL-00130,2027-01-11,EMP-33,PRJ-05,BAU,12,APPROVED,AP-2027-01-11-EMP-33,,existing commitment
+AL-00112,2027-01-11,EMP-28,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00330,2027-01-25,EMP-11,PRJ-04,BAU,10,APPROVED,AP-2027-01-25-EMP-11,,existing commitment
+AL-01278,2027-03-08,EMP-32,PRJ-04,BAU,13,APPROVED,AP-2027-03-08-EMP-32,,existing commitment
+AL-00563,2027-02-01,EMP-33,PRJ-05,customer_support,14,APPROVED,AP-2027-02-01-EMP-33,,existing commitment
+AL-00174,2027-01-18,EMP-08,PRJ-01,BAU,10,APPROVED,AP-2027-01-18-EMP-08,,existing commitment
+AL-00593,2027-02-08,EMP-05,PRJ-05,delivery,13,APPROVED,AP-2027-02-08-EMP-05,,existing commitment
+AL-01084,2027-03-01,EMP-19,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00765,2027-02-15,EMP-12,PRJ-05,delivery,8,APPROVED,AP-2027-02-15-EMP-12,,existing commitment
+AL-00332,2027-01-25,EMP-11,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00206,2027-01-18,EMP-16,PRJ-02,BAU,10,APPROVED,AP-2027-01-18-EMP-16,,existing commitment
+AL-00780,2027-02-15,EMP-15,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00599,2027-02-08,EMP-06,PRJ-06,customer_support,12,APPROVED,AP-2027-02-08-EMP-06,,existing commitment
+AL-00668,2027-02-08,EMP-23,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00997,2027-02-22,EMP-34,PRJ-06,delivery,10,APPROVED,AP-2027-02-22-EMP-34,,existing commitment
+AL-00605,2027-02-08,EMP-08,PRJ-01,delivery,10,APPROVED,AP-2027-02-08-EMP-08,,existing commitment
+AL-00998,2027-02-22,EMP-34,PRJ-06,BAU,10,APPROVED,AP-2027-02-22-EMP-34,,existing commitment
+AL-00949,2027-02-22,EMP-22,PRJ-01,delivery,10,APPROVED,AP-2027-02-22-EMP-22,,existing commitment
+AL-00893,2027-02-22,EMP-08,PRJ-01,delivery,12,APPROVED,AP-2027-02-22-EMP-08,,existing commitment
+AL-00697,2027-02-08,EMP-31,PRJ-03,delivery,10,APPROVED,AP-2027-02-08-EMP-31,,existing commitment
+AL-00906,2027-02-22,EMP-11,PRJ-04,BAU,10,APPROVED,AP-2027-02-22-EMP-11,,existing commitment
+AL-00621,2027-02-08,EMP-12,PRJ-05,delivery,10,APPROVED,AP-2027-02-08-EMP-12,,existing commitment
+AL-00495,2027-02-01,EMP-16,PRJ-02,customer_support,12,APPROVED,AP-2027-02-01-EMP-16,,existing commitment
+AL-00584,2027-02-08,EMP-02,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01287,2027-03-08,EMP-34,PRJ-06,customer_support,14,APPROVED,AP-2027-03-08-EMP-34,,existing commitment
+AL-01145,2027-03-01,EMP-35,PRJ-07,delivery,9,APPROVED,AP-2027-03-01-EMP-35,,existing commitment
+AL-00184,2027-01-18,EMP-10,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00398,2027-01-25,EMP-28,PRJ-07,BAU,10,APPROVED,AP-2027-01-25-EMP-28,,existing commitment
+AL-00484,2027-02-01,EMP-13,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00963,2027-02-22,EMP-25,PRJ-04,customer_support,12,APPROVED,AP-2027-02-22-EMP-25,,existing commitment
+AL-00942,2027-02-22,EMP-20,PRJ-06,BAU,12,APPROVED,AP-2027-02-22-EMP-20,,existing commitment
+AL-00493,2027-02-01,EMP-16,PRJ-02,delivery,12,APPROVED,AP-2027-02-01-EMP-16,,existing commitment
+AL-00821,2027-02-15,EMP-26,PRJ-05,delivery,12,APPROVED,AP-2027-02-15-EMP-26,,existing commitment
+AL-00086,2027-01-11,EMP-22,PRJ-01,BAU,12,APPROVED,AP-2027-01-11-EMP-22,,existing commitment
+AL-00224,2027-01-18,EMP-20,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01031,2027-03-01,EMP-06,PRJ-06,customer_support,10,APPROVED,AP-2027-03-01-EMP-06,,existing commitment
+AL-01068,2027-03-01,EMP-15,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00812,2027-02-15,EMP-23,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00098,2027-01-11,EMP-25,PRJ-04,BAU,10,APPROVED,AP-2027-01-11-EMP-25,,existing commitment
+AL-00322,2027-01-25,EMP-09,PRJ-02,BAU,10,APPROVED,AP-2027-01-25-EMP-09,,existing commitment
+AL-00435,2027-02-01,EMP-01,PRJ-01,customer_support,10,APPROVED,AP-2027-02-01-EMP-01,,existing commitment
+AL-01239,2027-03-08,EMP-22,PRJ-01,customer_support,14,APPROVED,AP-2027-03-08-EMP-22,,existing commitment
+AL-00344,2027-01-25,EMP-14,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00490,2027-02-01,EMP-15,PRJ-01,BAU,9,APPROVED,AP-2027-02-01-EMP-15,,existing commitment
+AL-01127,2027-03-01,EMP-30,PRJ-02,customer_support,12,APPROVED,AP-2027-03-01-EMP-30,,existing commitment
+AL-01029,2027-03-01,EMP-06,PRJ-06,delivery,9,APPROVED,AP-2027-03-01-EMP-06,,existing commitment
+AL-00067,2027-01-11,EMP-17,PRJ-03,customer_support,8,APPROVED,AP-2027-01-11-EMP-17,,existing commitment
+AL-00687,2027-02-08,EMP-28,PRJ-07,customer_support,8,APPROVED,AP-2027-02-08-EMP-28,,existing commitment
+AL-00517,2027-02-01,EMP-22,PRJ-01,delivery,9,APPROVED,AP-2027-02-01-EMP-22,,existing commitment
+AL-01197,2027-03-08,EMP-12,PRJ-05,delivery,13,APPROVED,AP-2027-03-08-EMP-12,,existing commitment
+AL-00126,2027-01-11,EMP-32,PRJ-04,BAU,13,APPROVED,AP-2027-01-11-EMP-32,,existing commitment
+AL-00420,2027-01-25,EMP-33,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01097,2027-03-01,EMP-23,PRJ-02,delivery,9,APPROVED,AP-2027-03-01-EMP-23,,existing commitment
+AL-00234,2027-01-18,EMP-23,PRJ-02,BAU,13,APPROVED,AP-2027-01-18-EMP-23,,existing commitment
+AL-00451,2027-02-01,EMP-05,PRJ-05,customer_support,8,APPROVED,AP-2027-02-01-EMP-05,,existing commitment
+AL-00667,2027-02-08,EMP-23,PRJ-02,customer_support,12,APPROVED,AP-2027-02-08-EMP-23,,existing commitment
+AL-00166,2027-01-18,EMP-06,PRJ-06,BAU,9,APPROVED,AP-2027-01-18-EMP-06,,existing commitment
+AL-00805,2027-02-15,EMP-22,PRJ-01,delivery,13,APPROVED,AP-2027-02-15-EMP-22,,existing commitment
+AL-00324,2027-01-25,EMP-09,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01100,2027-03-01,EMP-23,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00721,2027-02-15,EMP-01,PRJ-01,delivery,10,APPROVED,AP-2027-02-15-EMP-01,,existing commitment
+AL-00585,2027-02-08,EMP-03,PRJ-03,delivery,10,APPROVED,AP-2027-02-08-EMP-03,,existing commitment
+AL-00872,2027-02-22,EMP-02,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00600,2027-02-08,EMP-06,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01165,2027-03-08,EMP-04,PRJ-04,delivery,8,APPROVED,AP-2027-03-08-EMP-04,,existing commitment
+AL-00440,2027-02-01,EMP-02,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00052,2027-01-11,EMP-13,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00178,2027-01-18,EMP-09,PRJ-02,BAU,12,APPROVED,AP-2027-01-18-EMP-09,,existing commitment
+AL-00892,2027-02-22,EMP-07,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00969,2027-02-22,EMP-27,PRJ-06,delivery,12,APPROVED,AP-2027-02-22-EMP-27,,existing commitment
+AL-00365,2027-01-25,EMP-20,PRJ-06,delivery,10,APPROVED,AP-2027-01-25-EMP-20,,existing commitment
+AL-00290,2027-01-25,EMP-01,PRJ-01,BAU,10,APPROVED,AP-2027-01-25-EMP-01,,existing commitment
+AL-01229,2027-03-08,EMP-20,PRJ-06,delivery,10,APPROVED,AP-2027-03-08-EMP-20,,existing commitment
+AL-00925,2027-02-22,EMP-16,PRJ-02,delivery,12,APPROVED,AP-2027-02-22-EMP-16,,existing commitment
+AL-01184,2027-03-08,EMP-08,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00168,2027-01-18,EMP-06,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00920,2027-02-22,EMP-14,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01156,2027-03-08,EMP-01,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00536,2027-02-01,EMP-26,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01121,2027-03-01,EMP-29,PRJ-01,delivery,8,APPROVED,AP-2027-03-01-EMP-29,,existing commitment
+AL-01196,2027-03-08,EMP-11,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00020,2027-01-11,EMP-05,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00811,2027-02-15,EMP-23,PRJ-02,customer_support,12,APPROVED,AP-2027-02-15-EMP-23,,existing commitment
+AL-00191,2027-01-18,EMP-12,PRJ-05,customer_support,12,APPROVED,AP-2027-01-18-EMP-12,,existing commitment
+AL-00547,2027-02-01,EMP-29,PRJ-01,customer_support,12,APPROVED,AP-2027-02-01-EMP-29,,existing commitment
+AL-01149,2027-03-01,EMP-36,PRJ-01,delivery,10,APPROVED,AP-2027-03-01-EMP-36,,existing commitment
+AL-01012,2027-03-01,EMP-01,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00496,2027-02-01,EMP-16,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00447,2027-02-01,EMP-04,PRJ-04,customer_support,14,APPROVED,AP-2027-02-01-EMP-04,,existing commitment
+AL-00507,2027-02-01,EMP-19,PRJ-05,customer_support,8,APPROVED,AP-2027-02-01-EMP-19,,existing commitment
+AL-00448,2027-02-01,EMP-04,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00223,2027-01-18,EMP-20,PRJ-06,customer_support,12,APPROVED,AP-2027-01-18-EMP-20,,existing commitment
+AL-01280,2027-03-08,EMP-32,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00656,2027-02-08,EMP-20,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00862,2027-02-15,EMP-36,PRJ-01,BAU,10,APPROVED,AP-2027-02-15-EMP-36,,existing commitment
+AL-00701,2027-02-08,EMP-32,PRJ-04,delivery,13,APPROVED,AP-2027-02-08-EMP-32,,existing commitment
+AL-00163,2027-01-18,EMP-05,PRJ-05,customer_support,14,APPROVED,AP-2027-01-18-EMP-05,,existing commitment
+AL-00839,2027-02-15,EMP-30,PRJ-02,customer_support,12,APPROVED,AP-2027-02-15-EMP-30,,existing commitment
+AL-01014,2027-03-01,EMP-02,PRJ-02,BAU,12,APPROVED,AP-2027-03-01-EMP-02,,existing commitment
+AL-00772,2027-02-15,EMP-13,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00723,2027-02-15,EMP-01,PRJ-01,customer_support,12,APPROVED,AP-2027-02-15-EMP-01,,existing commitment
+AL-00226,2027-01-18,EMP-21,PRJ-07,BAU,12,APPROVED,AP-2027-01-18-EMP-21,,existing commitment
+AL-00921,2027-02-22,EMP-15,PRJ-01,delivery,13,APPROVED,AP-2027-02-22-EMP-15,,existing commitment
+AL-00446,2027-02-01,EMP-04,PRJ-04,BAU,13,APPROVED,AP-2027-02-01-EMP-04,,existing commitment
+AL-01141,2027-03-01,EMP-34,PRJ-06,delivery,9,APPROVED,AP-2027-03-01-EMP-34,,existing commitment
+AL-00075,2027-01-11,EMP-19,PRJ-05,customer_support,10,APPROVED,AP-2027-01-11-EMP-19,,existing commitment
+AL-00058,2027-01-11,EMP-15,PRJ-01,BAU,12,APPROVED,AP-2027-01-11-EMP-15,,existing commitment
+AL-01004,2027-02-22,EMP-35,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01113,2027-03-01,EMP-27,PRJ-06,delivery,12,APPROVED,AP-2027-03-01-EMP-27,,existing commitment
+AL-00345,2027-01-25,EMP-15,PRJ-01,delivery,12,APPROVED,AP-2027-01-25-EMP-15,,existing commitment
+AL-00591,2027-02-08,EMP-04,PRJ-04,customer_support,10,APPROVED,AP-2027-02-08-EMP-04,,existing commitment
+AL-00361,2027-01-25,EMP-19,PRJ-05,delivery,12,APPROVED,AP-2027-01-25-EMP-19,,existing commitment
+AL-00071,2027-01-11,EMP-18,PRJ-04,customer_support,12,APPROVED,AP-2027-01-11-EMP-18,,existing commitment
+AL-00773,2027-02-15,EMP-14,PRJ-07,delivery,10,APPROVED,AP-2027-02-15-EMP-14,,existing commitment
+AL-00013,2027-01-11,EMP-04,PRJ-04,delivery,9,APPROVED,AP-2027-01-11-EMP-04,,existing commitment
+AL-00320,2027-01-25,EMP-08,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00559,2027-02-01,EMP-32,PRJ-04,customer_support,12,APPROVED,AP-2027-02-01-EMP-32,,existing commitment
+AL-00347,2027-01-25,EMP-15,PRJ-01,customer_support,12,APPROVED,AP-2027-01-25-EMP-15,,existing commitment
+AL-00389,2027-01-25,EMP-26,PRJ-05,delivery,10,APPROVED,AP-2027-01-25-EMP-26,,existing commitment
+AL-00170,2027-01-18,EMP-07,PRJ-07,BAU,9,APPROVED,AP-2027-01-18-EMP-07,,existing commitment
+AL-00767,2027-02-15,EMP-12,PRJ-05,customer_support,8,APPROVED,AP-2027-02-15-EMP-12,,existing commitment
+AL-01103,2027-03-01,EMP-24,PRJ-03,customer_support,12,APPROVED,AP-2027-03-01-EMP-24,,existing commitment
+AL-00650,2027-02-08,EMP-19,PRJ-05,BAU,10,APPROVED,AP-2027-02-08-EMP-19,,existing commitment
+AL-00172,2027-01-18,EMP-07,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00095,2027-01-11,EMP-24,PRJ-03,customer_support,12,APPROVED,AP-2027-01-11-EMP-24,,existing commitment
+AL-01106,2027-03-01,EMP-25,PRJ-04,BAU,10,APPROVED,AP-2027-03-01-EMP-25,,existing commitment
+AL-00938,2027-02-22,EMP-19,PRJ-05,BAU,10,APPROVED,AP-2027-02-22-EMP-19,,existing commitment
+AL-01230,2027-03-08,EMP-20,PRJ-06,BAU,10,APPROVED,AP-2027-03-08-EMP-20,,existing commitment
+AL-00577,2027-02-08,EMP-01,PRJ-01,delivery,9,APPROVED,AP-2027-02-08-EMP-01,,existing commitment
+AL-01001,2027-02-22,EMP-35,PRJ-07,delivery,12,APPROVED,AP-2027-02-22-EMP-35,,existing commitment
+AL-00488,2027-02-01,EMP-14,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00213,2027-01-18,EMP-18,PRJ-04,delivery,9,APPROVED,AP-2027-01-18-EMP-18,,existing commitment
+AL-01035,2027-03-01,EMP-07,PRJ-07,customer_support,12,APPROVED,AP-2027-03-01-EMP-07,,existing commitment
+AL-00818,2027-02-15,EMP-25,PRJ-04,BAU,10,APPROVED,AP-2027-02-15-EMP-25,,existing commitment
+AL-00258,2027-01-18,EMP-29,PRJ-01,BAU,10,APPROVED,AP-2027-01-18-EMP-29,,existing commitment
+AL-00111,2027-01-11,EMP-28,PRJ-07,customer_support,12,APPROVED,AP-2027-01-11-EMP-28,,existing commitment
+AL-00081,2027-01-11,EMP-21,PRJ-07,delivery,9,APPROVED,AP-2027-01-11-EMP-21,,existing commitment
+AL-00118,2027-01-11,EMP-30,PRJ-02,BAU,9,APPROVED,AP-2027-01-11-EMP-30,,existing commitment
+AL-00880,2027-02-22,EMP-04,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00216,2027-01-18,EMP-18,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00472,2027-02-01,EMP-10,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00491,2027-02-01,EMP-15,PRJ-01,customer_support,10,APPROVED,AP-2027-02-01-EMP-15,,existing commitment
+AL-00981,2027-02-22,EMP-30,PRJ-02,delivery,12,APPROVED,AP-2027-02-22-EMP-30,,existing commitment
+AL-00870,2027-02-22,EMP-02,PRJ-02,BAU,10,APPROVED,AP-2027-02-22-EMP-02,,existing commitment
+AL-00538,2027-02-01,EMP-27,PRJ-06,BAU,10,APPROVED,AP-2027-02-01-EMP-27,,existing commitment
+AL-00692,2027-02-08,EMP-29,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00321,2027-01-25,EMP-09,PRJ-02,delivery,10,APPROVED,AP-2027-01-25-EMP-09,,existing commitment
+AL-00914,2027-02-22,EMP-13,PRJ-06,BAU,13,APPROVED,AP-2027-02-22-EMP-13,,existing commitment
+AL-01132,2027-03-01,EMP-31,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00235,2027-01-18,EMP-23,PRJ-02,customer_support,14,APPROVED,AP-2027-01-18-EMP-23,,existing commitment
+AL-01087,2027-03-01,EMP-20,PRJ-06,customer_support,12,APPROVED,AP-2027-03-01-EMP-20,,existing commitment
+AL-00831,2027-02-15,EMP-28,PRJ-07,customer_support,14,APPROVED,AP-2027-02-15-EMP-28,,existing commitment
+AL-00774,2027-02-15,EMP-14,PRJ-07,BAU,10,APPROVED,AP-2027-02-15-EMP-14,,existing commitment
+AL-01289,2027-03-08,EMP-35,PRJ-07,delivery,13,APPROVED,AP-2027-03-08-EMP-35,,existing commitment
+AL-01262,2027-03-08,EMP-28,PRJ-07,BAU,12,APPROVED,AP-2027-03-08-EMP-28,,existing commitment
+AL-00358,2027-01-25,EMP-18,PRJ-04,BAU,9,APPROVED,AP-2027-01-25-EMP-18,,existing commitment
+AL-00519,2027-02-01,EMP-22,PRJ-01,customer_support,10,APPROVED,AP-2027-02-01-EMP-22,,existing commitment
+AL-00471,2027-02-01,EMP-10,PRJ-03,customer_support,12,APPROVED,AP-2027-02-01-EMP-10,,existing commitment
+AL-00383,2027-01-25,EMP-24,PRJ-03,customer_support,10,APPROVED,AP-2027-01-25-EMP-24,,existing commitment
+AL-01288,2027-03-08,EMP-34,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01089,2027-03-01,EMP-21,PRJ-07,delivery,9,APPROVED,AP-2027-03-01-EMP-21,,existing commitment
+AL-00749,2027-02-15,EMP-08,PRJ-01,delivery,12,APPROVED,AP-2027-02-15-EMP-08,,existing commitment
+AL-00413,2027-01-25,EMP-32,PRJ-04,delivery,12,APPROVED,AP-2027-01-25-EMP-32,,existing commitment
+AL-00670,2027-02-08,EMP-24,PRJ-03,BAU,12,APPROVED,AP-2027-02-08-EMP-24,,existing commitment
+AL-00743,2027-02-15,EMP-06,PRJ-06,customer_support,14,APPROVED,AP-2027-02-15-EMP-06,,existing commitment
+AL-01281,2027-03-08,EMP-33,PRJ-05,delivery,13,APPROVED,AP-2027-03-08-EMP-33,,existing commitment
+AL-00578,2027-02-08,EMP-01,PRJ-01,BAU,9,APPROVED,AP-2027-02-08-EMP-01,,existing commitment
+AL-00122,2027-01-11,EMP-31,PRJ-03,BAU,9,APPROVED,AP-2027-01-11-EMP-31,,existing commitment
+AL-00203,2027-01-18,EMP-15,PRJ-01,customer_support,8,APPROVED,AP-2027-01-18-EMP-15,,existing commitment
+AL-00617,2027-02-08,EMP-11,PRJ-04,delivery,10,APPROVED,AP-2027-02-08-EMP-11,,existing commitment
+AL-01273,2027-03-08,EMP-31,PRJ-03,delivery,10,APPROVED,AP-2027-03-08-EMP-31,,existing commitment
+AL-00102,2027-01-11,EMP-26,PRJ-05,BAU,10,APPROVED,AP-2027-01-11-EMP-26,,existing commitment
+AL-00334,2027-01-25,EMP-12,PRJ-05,BAU,8,APPROVED,AP-2027-01-25-EMP-12,,existing commitment
+AL-00171,2027-01-18,EMP-07,PRJ-07,customer_support,10,APPROVED,AP-2027-01-18-EMP-07,,existing commitment
+AL-00502,2027-02-01,EMP-18,PRJ-04,BAU,9,APPROVED,AP-2027-02-01-EMP-18,,existing commitment
+AL-00143,2027-01-11,EMP-36,PRJ-01,customer_support,14,APPROVED,AP-2027-01-11-EMP-36,,existing commitment
+AL-00648,2027-02-08,EMP-18,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00179,2027-01-18,EMP-09,PRJ-02,customer_support,12,APPROVED,AP-2027-01-18-EMP-09,,existing commitment
+AL-00763,2027-02-15,EMP-11,PRJ-04,customer_support,10,APPROVED,AP-2027-02-15-EMP-11,,existing commitment
+AL-00524,2027-02-01,EMP-23,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00264,2027-01-18,EMP-30,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00080,2027-01-11,EMP-20,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00276,2027-01-18,EMP-33,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00958,2027-02-22,EMP-24,PRJ-03,BAU,10,APPROVED,AP-2027-02-22-EMP-24,,existing commitment
+AL-00374,2027-01-25,EMP-22,PRJ-01,BAU,10,APPROVED,AP-2027-01-25-EMP-22,,existing commitment
+AL-00560,2027-02-01,EMP-32,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00359,2027-01-25,EMP-18,PRJ-04,customer_support,10,APPROVED,AP-2027-01-25-EMP-18,,existing commitment
+AL-00643,2027-02-08,EMP-17,PRJ-03,customer_support,10,APPROVED,AP-2027-02-08-EMP-17,,existing commitment
+AL-00852,2027-02-15,EMP-33,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00299,2027-01-25,EMP-03,PRJ-03,customer_support,14,APPROVED,AP-2027-01-25-EMP-03,,existing commitment
+AL-00182,2027-01-18,EMP-10,PRJ-03,BAU,9,APPROVED,AP-2027-01-18-EMP-10,,existing commitment
+AL-01129,2027-03-01,EMP-31,PRJ-03,delivery,13,APPROVED,AP-2027-03-01-EMP-31,,existing commitment
+AL-00630,2027-02-08,EMP-14,PRJ-07,BAU,12,APPROVED,AP-2027-02-08-EMP-14,,existing commitment
+AL-00405,2027-01-25,EMP-30,PRJ-02,delivery,8,APPROVED,AP-2027-01-25-EMP-30,,existing commitment
+AL-00972,2027-02-22,EMP-27,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00725,2027-02-15,EMP-02,PRJ-02,delivery,10,APPROVED,AP-2027-02-15-EMP-02,,existing commitment
+AL-00844,2027-02-15,EMP-31,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00443,2027-02-01,EMP-03,PRJ-03,customer_support,8,APPROVED,AP-2027-02-01-EMP-03,,existing commitment
+AL-00590,2027-02-08,EMP-04,PRJ-04,BAU,9,APPROVED,AP-2027-02-08-EMP-04,,existing commitment
+AL-00237,2027-01-18,EMP-24,PRJ-03,delivery,12,APPROVED,AP-2027-01-18-EMP-24,,existing commitment
+AL-00131,2027-01-11,EMP-33,PRJ-05,customer_support,12,APPROVED,AP-2027-01-11-EMP-33,,existing commitment
+AL-00064,2027-01-11,EMP-16,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01214,2027-03-08,EMP-16,PRJ-02,BAU,13,APPROVED,AP-2027-03-08-EMP-16,,existing commitment
+AL-00748,2027-02-15,EMP-07,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01251,2027-03-08,EMP-25,PRJ-04,customer_support,12,APPROVED,AP-2027-03-08-EMP-25,,existing commitment
+AL-01250,2027-03-08,EMP-25,PRJ-04,BAU,10,APPROVED,AP-2027-03-08-EMP-25,,existing commitment
+AL-00041,2027-01-11,EMP-11,PRJ-04,delivery,13,APPROVED,AP-2027-01-11-EMP-11,,existing commitment
+AL-00995,2027-02-22,EMP-33,PRJ-05,customer_support,12,APPROVED,AP-2027-02-22-EMP-33,,existing commitment
+AL-00838,2027-02-15,EMP-30,PRJ-02,BAU,12,APPROVED,AP-2027-02-15-EMP-30,,existing commitment
+AL-00654,2027-02-08,EMP-20,PRJ-06,BAU,8,APPROVED,AP-2027-02-08-EMP-20,,existing commitment
+AL-01240,2027-03-08,EMP-22,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01050,2027-03-01,EMP-11,PRJ-04,BAU,10,APPROVED,AP-2027-03-01-EMP-11,,existing commitment
+AL-00686,2027-02-08,EMP-28,PRJ-07,BAU,8,APPROVED,AP-2027-02-08-EMP-28,,existing commitment
+AL-00747,2027-02-15,EMP-07,PRJ-07,customer_support,8,APPROVED,AP-2027-02-15-EMP-07,,existing commitment
+AL-01245,2027-03-08,EMP-24,PRJ-03,delivery,10,APPROVED,AP-2027-03-08-EMP-24,,existing commitment
+AL-00768,2027-02-15,EMP-12,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00019,2027-01-11,EMP-05,PRJ-05,customer_support,12,APPROVED,AP-2027-01-11-EMP-05,,existing commitment
+AL-00209,2027-01-18,EMP-17,PRJ-03,delivery,12,APPROVED,AP-2027-01-18-EMP-17,,existing commitment
+AL-01006,2027-02-22,EMP-36,PRJ-01,BAU,12,APPROVED,AP-2027-02-22-EMP-36,,existing commitment
+AL-00169,2027-01-18,EMP-07,PRJ-07,delivery,9,APPROVED,AP-2027-01-18-EMP-07,,existing commitment
+AL-00689,2027-02-08,EMP-29,PRJ-01,delivery,13,APPROVED,AP-2027-02-08-EMP-29,,existing commitment
+AL-00528,2027-02-01,EMP-24,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00391,2027-01-25,EMP-26,PRJ-05,customer_support,12,APPROVED,AP-2027-01-25-EMP-26,,existing commitment
+AL-01204,2027-03-08,EMP-13,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00903,2027-02-22,EMP-10,PRJ-03,customer_support,12,APPROVED,AP-2027-02-22-EMP-10,,existing commitment
+AL-00754,2027-02-15,EMP-09,PRJ-02,BAU,12,APPROVED,AP-2027-02-15-EMP-09,,existing commitment
+AL-01284,2027-03-08,EMP-33,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00570,2027-02-01,EMP-35,PRJ-07,BAU,8,APPROVED,AP-2027-02-01-EMP-35,,existing commitment
+AL-00193,2027-01-18,EMP-13,PRJ-06,delivery,9,APPROVED,AP-2027-01-18-EMP-13,,existing commitment
+AL-00732,2027-02-15,EMP-03,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01065,2027-03-01,EMP-15,PRJ-01,delivery,10,APPROVED,AP-2027-03-01-EMP-15,,existing commitment
+AL-00816,2027-02-15,EMP-24,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00651,2027-02-08,EMP-19,PRJ-05,customer_support,12,APPROVED,AP-2027-02-08-EMP-19,,existing commitment
+AL-00709,2027-02-08,EMP-34,PRJ-06,delivery,10,APPROVED,AP-2027-02-08-EMP-34,,existing commitment
+AL-00353,2027-01-25,EMP-17,PRJ-03,delivery,9,APPROVED,AP-2027-01-25-EMP-17,,existing commitment
+AL-00716,2027-02-08,EMP-35,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01110,2027-03-01,EMP-26,PRJ-05,BAU,10,APPROVED,AP-2027-03-01-EMP-26,,existing commitment
+AL-00251,2027-01-18,EMP-27,PRJ-06,customer_support,14,APPROVED,AP-2027-01-18-EMP-27,,existing commitment
+AL-00977,2027-02-22,EMP-29,PRJ-01,delivery,12,APPROVED,AP-2027-02-22-EMP-29,,existing commitment
+AL-00037,2027-01-11,EMP-10,PRJ-03,delivery,8,APPROVED,AP-2027-01-11-EMP-10,,existing commitment
+AL-00855,2027-02-15,EMP-34,PRJ-06,customer_support,12,APPROVED,AP-2027-02-15-EMP-34,,existing commitment
+AL-01231,2027-03-08,EMP-20,PRJ-06,customer_support,12,APPROVED,AP-2027-03-08-EMP-20,,existing commitment
+AL-00306,2027-01-25,EMP-05,PRJ-05,BAU,10,APPROVED,AP-2027-01-25-EMP-05,,existing commitment
+AL-00059,2027-01-11,EMP-15,PRJ-01,customer_support,12,APPROVED,AP-2027-01-11-EMP-15,,existing commitment
+AL-01045,2027-03-01,EMP-10,PRJ-03,delivery,12,APPROVED,AP-2027-03-01-EMP-10,,existing commitment
+AL-00854,2027-02-15,EMP-34,PRJ-06,BAU,10,APPROVED,AP-2027-02-15-EMP-34,,existing commitment
+AL-01285,2027-03-08,EMP-34,PRJ-06,delivery,13,APPROVED,AP-2027-03-08-EMP-34,,existing commitment
+AL-00315,2027-01-25,EMP-07,PRJ-07,customer_support,12,APPROVED,AP-2027-01-25-EMP-07,,existing commitment
+AL-00525,2027-02-01,EMP-24,PRJ-03,delivery,12,APPROVED,AP-2027-02-01-EMP-24,,existing commitment
+AL-01046,2027-03-01,EMP-10,PRJ-03,BAU,12,APPROVED,AP-2027-03-01-EMP-10,,existing commitment
+AL-00722,2027-02-15,EMP-01,PRJ-01,BAU,10,APPROVED,AP-2027-02-15-EMP-01,,existing commitment
+AL-00548,2027-02-01,EMP-29,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00733,2027-02-15,EMP-04,PRJ-04,delivery,13,APPROVED,AP-2027-02-15-EMP-04,,existing commitment
+AL-00044,2027-01-11,EMP-11,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01047,2027-03-01,EMP-10,PRJ-03,customer_support,12,APPROVED,AP-2027-03-01-EMP-10,,existing commitment
+AL-01096,2027-03-01,EMP-22,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00230,2027-01-18,EMP-22,PRJ-01,BAU,12,APPROVED,AP-2027-01-18-EMP-22,,existing commitment
+AL-00222,2027-01-18,EMP-20,PRJ-06,BAU,10,APPROVED,AP-2027-01-18-EMP-20,,existing commitment
+AL-01057,2027-03-01,EMP-13,PRJ-06,delivery,12,APPROVED,AP-2027-03-01-EMP-13,,existing commitment
+AL-00023,2027-01-11,EMP-06,PRJ-06,customer_support,12,APPROVED,AP-2027-01-11-EMP-06,,existing commitment
+AL-00500,2027-02-01,EMP-17,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00984,2027-02-22,EMP-30,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01200,2027-03-08,EMP-12,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00467,2027-02-01,EMP-09,PRJ-02,customer_support,12,APPROVED,AP-2027-02-01-EMP-09,,existing commitment
+AL-01120,2027-03-01,EMP-28,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00896,2027-02-22,EMP-08,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00601,2027-02-08,EMP-07,PRJ-07,delivery,10,APPROVED,AP-2027-02-08-EMP-07,,existing commitment
+AL-01150,2027-03-01,EMP-36,PRJ-01,BAU,10,APPROVED,AP-2027-03-01-EMP-36,,existing commitment
+AL-00535,2027-02-01,EMP-26,PRJ-05,customer_support,14,APPROVED,AP-2027-02-01-EMP-26,,existing commitment
+AL-00625,2027-02-08,EMP-13,PRJ-06,delivery,12,APPROVED,AP-2027-02-08-EMP-13,,existing commitment
+AL-00890,2027-02-22,EMP-07,PRJ-07,BAU,10,APPROVED,AP-2027-02-22-EMP-07,,existing commitment
+AL-01261,2027-03-08,EMP-28,PRJ-07,delivery,12,APPROVED,AP-2027-03-08-EMP-28,,existing commitment
+AL-00829,2027-02-15,EMP-28,PRJ-07,delivery,13,APPROVED,AP-2027-02-15-EMP-28,,existing commitment
+AL-00110,2027-01-11,EMP-28,PRJ-07,BAU,10,APPROVED,AP-2027-01-11-EMP-28,,existing commitment
+AL-00776,2027-02-15,EMP-14,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00994,2027-02-22,EMP-33,PRJ-05,BAU,12,APPROVED,AP-2027-02-22-EMP-33,,existing commitment
+AL-00980,2027-02-22,EMP-29,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01267,2027-03-08,EMP-29,PRJ-01,customer_support,14,APPROVED,AP-2027-03-08-EMP-29,,existing commitment
+AL-00392,2027-01-25,EMP-26,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00373,2027-01-25,EMP-22,PRJ-01,delivery,10,APPROVED,AP-2027-01-25-EMP-22,,existing commitment
+AL-00744,2027-02-15,EMP-06,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00573,2027-02-01,EMP-36,PRJ-01,delivery,9,APPROVED,AP-2027-02-01-EMP-36,,existing commitment
+AL-00400,2027-01-25,EMP-28,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00458,2027-02-01,EMP-07,PRJ-07,BAU,9,APPROVED,AP-2027-02-01-EMP-07,,existing commitment
+AL-00034,2027-01-11,EMP-09,PRJ-02,BAU,13,APPROVED,AP-2027-01-11-EMP-09,,existing commitment
+AL-00494,2027-02-01,EMP-16,PRJ-02,BAU,12,APPROVED,AP-2027-02-01-EMP-16,,existing commitment
+AL-00007,2027-01-11,EMP-02,PRJ-02,customer_support,12,APPROVED,AP-2027-01-11-EMP-02,,existing commitment
+AL-00603,2027-02-08,EMP-07,PRJ-07,customer_support,12,APPROVED,AP-2027-02-08-EMP-07,,existing commitment
+AL-00065,2027-01-11,EMP-17,PRJ-03,delivery,8,APPROVED,AP-2027-01-11-EMP-17,,existing commitment
+AL-00734,2027-02-15,EMP-04,PRJ-04,BAU,13,APPROVED,AP-2027-02-15-EMP-04,,existing commitment
+AL-01163,2027-03-08,EMP-03,PRJ-03,customer_support,8,APPROVED,AP-2027-03-08-EMP-03,,existing commitment
+AL-00663,2027-02-08,EMP-22,PRJ-01,customer_support,10,APPROVED,AP-2027-02-08-EMP-22,,existing commitment
+AL-00730,2027-02-15,EMP-03,PRJ-03,BAU,8,APPROVED,AP-2027-02-15-EMP-03,,existing commitment
+AL-00407,2027-01-25,EMP-30,PRJ-02,customer_support,8,APPROVED,AP-2027-01-25-EMP-30,,existing commitment
+AL-01136,2027-03-01,EMP-32,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00985,2027-02-22,EMP-31,PRJ-03,delivery,12,APPROVED,AP-2027-02-22-EMP-31,,existing commitment
+AL-00005,2027-01-11,EMP-02,PRJ-02,delivery,10,APPROVED,AP-2027-01-11-EMP-02,,existing commitment
+AL-00466,2027-02-01,EMP-09,PRJ-02,BAU,10,APPROVED,AP-2027-02-01-EMP-09,,existing commitment
+AL-01147,2027-03-01,EMP-35,PRJ-07,customer_support,10,APPROVED,AP-2027-03-01-EMP-35,,existing commitment
+AL-00386,2027-01-25,EMP-25,PRJ-04,BAU,10,APPROVED,AP-2027-01-25-EMP-25,,existing commitment
+AL-00014,2027-01-11,EMP-04,PRJ-04,BAU,9,APPROVED,AP-2027-01-11-EMP-04,,existing commitment
+AL-01032,2027-03-01,EMP-06,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00566,2027-02-01,EMP-34,PRJ-06,BAU,10,APPROVED,AP-2027-02-01-EMP-34,,existing commitment
+AL-00731,2027-02-15,EMP-03,PRJ-03,customer_support,8,APPROVED,AP-2027-02-15-EMP-03,,existing commitment
+AL-01176,2027-03-08,EMP-06,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00137,2027-01-11,EMP-35,PRJ-07,delivery,13,APPROVED,AP-2027-01-11-EMP-35,,existing commitment
+AL-01236,2027-03-08,EMP-21,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00068,2027-01-11,EMP-17,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00679,2027-02-08,EMP-26,PRJ-05,customer_support,12,APPROVED,AP-2027-02-08-EMP-26,,existing commitment
+AL-00367,2027-01-25,EMP-20,PRJ-06,customer_support,12,APPROVED,AP-2027-01-25-EMP-20,,existing commitment
+AL-00097,2027-01-11,EMP-25,PRJ-04,delivery,10,APPROVED,AP-2027-01-11-EMP-25,,existing commitment
+AL-00021,2027-01-11,EMP-06,PRJ-06,delivery,12,APPROVED,AP-2027-01-11-EMP-06,,existing commitment
+AL-00644,2027-02-08,EMP-17,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00894,2027-02-22,EMP-08,PRJ-01,BAU,12,APPROVED,AP-2027-02-22-EMP-08,,existing commitment
+AL-00105,2027-01-11,EMP-27,PRJ-06,delivery,10,APPROVED,AP-2027-01-11-EMP-27,,existing commitment
+AL-01117,2027-03-01,EMP-28,PRJ-07,delivery,10,APPROVED,AP-2027-03-01-EMP-28,,existing commitment
+AL-00642,2027-02-08,EMP-17,PRJ-03,BAU,9,APPROVED,AP-2027-02-08-EMP-17,,existing commitment
+AL-01080,2027-03-01,EMP-18,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00287,2027-01-18,EMP-36,PRJ-01,customer_support,10,APPROVED,AP-2027-01-18-EMP-36,,existing commitment
+AL-00114,2027-01-11,EMP-29,PRJ-01,BAU,13,APPROVED,AP-2027-01-11-EMP-29,,existing commitment
+AL-01164,2027-03-08,EMP-03,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01139,2027-03-01,EMP-33,PRJ-05,customer_support,12,APPROVED,AP-2027-03-01-EMP-33,,existing commitment
+AL-01053,2027-03-01,EMP-12,PRJ-05,delivery,13,APPROVED,AP-2027-03-01-EMP-12,,existing commitment
+AL-00426,2027-01-25,EMP-35,PRJ-07,BAU,9,APPROVED,AP-2027-01-25-EMP-35,,existing commitment
+AL-00638,2027-02-08,EMP-16,PRJ-02,BAU,9,APPROVED,AP-2027-02-08-EMP-16,,existing commitment
+AL-00394,2027-01-25,EMP-27,PRJ-06,BAU,9,APPROVED,AP-2027-01-25-EMP-27,,existing commitment
+AL-00429,2027-01-25,EMP-36,PRJ-01,delivery,12,APPROVED,AP-2027-01-25-EMP-36,,existing commitment
+AL-00460,2027-02-01,EMP-07,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00907,2027-02-22,EMP-11,PRJ-04,customer_support,12,APPROVED,AP-2027-02-22-EMP-11,,existing commitment
+AL-00632,2027-02-08,EMP-14,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00136,2027-01-11,EMP-34,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00252,2027-01-18,EMP-27,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00492,2027-02-01,EMP-15,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00961,2027-02-22,EMP-25,PRJ-04,delivery,10,APPROVED,AP-2027-02-22-EMP-25,,existing commitment
+AL-00598,2027-02-08,EMP-06,PRJ-06,BAU,10,APPROVED,AP-2027-02-08-EMP-06,,existing commitment
+AL-01000,2027-02-22,EMP-34,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00908,2027-02-22,EMP-11,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01158,2027-03-08,EMP-02,PRJ-02,BAU,8,APPROVED,AP-2027-03-08-EMP-02,,existing commitment
+AL-00785,2027-02-15,EMP-17,PRJ-03,delivery,12,APPROVED,AP-2027-02-15-EMP-17,,existing commitment
+AL-00364,2027-01-25,EMP-19,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00945,2027-02-22,EMP-21,PRJ-07,delivery,10,APPROVED,AP-2027-02-22-EMP-21,,existing commitment
+AL-00664,2027-02-08,EMP-22,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00508,2027-02-01,EMP-19,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01202,2027-03-08,EMP-13,PRJ-06,BAU,10,APPROVED,AP-2027-03-08-EMP-13,,existing commitment
+AL-00580,2027-02-08,EMP-01,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01217,2027-03-08,EMP-17,PRJ-03,delivery,12,APPROVED,AP-2027-03-08-EMP-17,,existing commitment
+AL-01101,2027-03-01,EMP-24,PRJ-03,delivery,10,APPROVED,AP-2027-03-01-EMP-24,,existing commitment
+AL-00079,2027-01-11,EMP-20,PRJ-06,customer_support,12,APPROVED,AP-2027-01-11-EMP-20,,existing commitment
+AL-01102,2027-03-01,EMP-24,PRJ-03,BAU,10,APPROVED,AP-2027-03-01-EMP-24,,existing commitment
+AL-00587,2027-02-08,EMP-03,PRJ-03,customer_support,12,APPROVED,AP-2027-02-08-EMP-03,,existing commitment
+AL-00437,2027-02-01,EMP-02,PRJ-02,delivery,13,APPROVED,AP-2027-02-01-EMP-02,,existing commitment
+AL-00499,2027-02-01,EMP-17,PRJ-03,customer_support,14,APPROVED,AP-2027-02-01-EMP-17,,existing commitment
+AL-01007,2027-02-22,EMP-36,PRJ-01,customer_support,12,APPROVED,AP-2027-02-22-EMP-36,,existing commitment
+AL-00280,2027-01-18,EMP-34,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00129,2027-01-11,EMP-33,PRJ-05,delivery,12,APPROVED,AP-2027-01-11-EMP-33,,existing commitment
+AL-00680,2027-02-08,EMP-26,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01052,2027-03-01,EMP-11,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01212,2027-03-08,EMP-15,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01038,2027-03-01,EMP-08,PRJ-01,BAU,10,APPROVED,AP-2027-03-01-EMP-08,,existing commitment
+AL-00909,2027-02-22,EMP-12,PRJ-05,delivery,12,APPROVED,AP-2027-02-22-EMP-12,,existing commitment
+AL-00660,2027-02-08,EMP-21,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00246,2027-01-18,EMP-26,PRJ-05,BAU,10,APPROVED,AP-2027-01-18-EMP-26,,existing commitment
+AL-00012,2027-01-11,EMP-03,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00271,2027-01-18,EMP-32,PRJ-04,customer_support,10,APPROVED,AP-2027-01-18-EMP-32,,existing commitment
+AL-01048,2027-03-01,EMP-10,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00057,2027-01-11,EMP-15,PRJ-01,delivery,12,APPROVED,AP-2027-01-11-EMP-15,,existing commitment
+AL-00512,2027-02-01,EMP-20,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00254,2027-01-18,EMP-28,PRJ-07,BAU,10,APPROVED,AP-2027-01-18-EMP-28,,existing commitment
+AL-00970,2027-02-22,EMP-27,PRJ-06,BAU,12,APPROVED,AP-2027-02-22-EMP-27,,existing commitment
+AL-01058,2027-03-01,EMP-13,PRJ-06,BAU,12,APPROVED,AP-2027-03-01-EMP-13,,existing commitment
+AL-00557,2027-02-01,EMP-32,PRJ-04,delivery,12,APPROVED,AP-2027-02-01-EMP-32,,existing commitment
+AL-00782,2027-02-15,EMP-16,PRJ-02,BAU,10,APPROVED,AP-2027-02-15-EMP-16,,existing commitment
+AL-01233,2027-03-08,EMP-21,PRJ-07,delivery,12,APPROVED,AP-2027-03-08-EMP-21,,existing commitment
+AL-01040,2027-03-01,EMP-08,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00125,2027-01-11,EMP-32,PRJ-04,delivery,13,APPROVED,AP-2027-01-11-EMP-32,,existing commitment
+AL-00229,2027-01-18,EMP-22,PRJ-01,delivery,12,APPROVED,AP-2027-01-18-EMP-22,,existing commitment
+AL-00189,2027-01-18,EMP-12,PRJ-05,delivery,10,APPROVED,AP-2027-01-18-EMP-12,,existing commitment
+AL-00212,2027-01-18,EMP-17,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00904,2027-02-22,EMP-10,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00036,2027-01-11,EMP-09,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01125,2027-03-01,EMP-30,PRJ-02,delivery,12,APPROVED,AP-2027-03-01-EMP-30,,existing commitment
+AL-00393,2027-01-25,EMP-27,PRJ-06,delivery,9,APPROVED,AP-2027-01-25-EMP-27,,existing commitment
+AL-00576,2027-02-01,EMP-36,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00975,2027-02-22,EMP-28,PRJ-07,customer_support,12,APPROVED,AP-2027-02-22-EMP-28,,existing commitment
+AL-00879,2027-02-22,EMP-04,PRJ-04,customer_support,14,APPROVED,AP-2027-02-22-EMP-04,,existing commitment
+AL-01026,2027-03-01,EMP-05,PRJ-05,BAU,9,APPROVED,AP-2027-03-01-EMP-05,,existing commitment
+AL-01178,2027-03-08,EMP-07,PRJ-07,BAU,8,APPROVED,AP-2027-03-08-EMP-07,,existing commitment
+AL-01151,2027-03-01,EMP-36,PRJ-01,customer_support,12,APPROVED,AP-2027-03-01-EMP-36,,existing commitment
+AL-01062,2027-03-01,EMP-14,PRJ-07,BAU,12,APPROVED,AP-2027-03-01-EMP-14,,existing commitment
+AL-00215,2027-01-18,EMP-18,PRJ-04,customer_support,10,APPROVED,AP-2027-01-18-EMP-18,,existing commitment
+AL-01036,2027-03-01,EMP-07,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00487,2027-02-01,EMP-14,PRJ-07,customer_support,14,APPROVED,AP-2027-02-01-EMP-14,,existing commitment
+AL-00553,2027-02-01,EMP-31,PRJ-03,delivery,12,APPROVED,AP-2027-02-01-EMP-31,,existing commitment
+AL-00901,2027-02-22,EMP-10,PRJ-03,delivery,10,APPROVED,AP-2027-02-22-EMP-10,,existing commitment
+AL-01246,2027-03-08,EMP-24,PRJ-03,BAU,10,APPROVED,AP-2027-03-08-EMP-24,,existing commitment
+AL-01064,2027-03-01,EMP-14,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00789,2027-02-15,EMP-18,PRJ-04,delivery,10,APPROVED,AP-2027-02-15-EMP-18,,existing commitment
+AL-00423,2027-01-25,EMP-34,PRJ-06,customer_support,10,APPROVED,AP-2027-01-25-EMP-34,,existing commitment
+AL-01286,2027-03-08,EMP-34,PRJ-06,BAU,13,APPROVED,AP-2027-03-08-EMP-34,,existing commitment
+AL-00787,2027-02-15,EMP-17,PRJ-03,customer_support,12,APPROVED,AP-2027-02-15-EMP-17,,existing commitment
+AL-00878,2027-02-22,EMP-04,PRJ-04,BAU,13,APPROVED,AP-2027-02-22-EMP-04,,existing commitment
+AL-00531,2027-02-01,EMP-25,PRJ-04,customer_support,10,APPROVED,AP-2027-02-01-EMP-25,,existing commitment
+AL-00026,2027-01-11,EMP-07,PRJ-07,BAU,9,APPROVED,AP-2027-01-11-EMP-07,,existing commitment
+AL-01272,2027-03-08,EMP-30,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00035,2027-01-11,EMP-09,PRJ-02,customer_support,14,APPROVED,AP-2027-01-11-EMP-09,,existing commitment
+AL-00830,2027-02-15,EMP-28,PRJ-07,BAU,13,APPROVED,AP-2027-02-15-EMP-28,,existing commitment
+AL-00066,2027-01-11,EMP-17,PRJ-03,BAU,8,APPROVED,AP-2027-01-11-EMP-17,,existing commitment
+AL-01095,2027-03-01,EMP-22,PRJ-01,customer_support,12,APPROVED,AP-2027-03-01-EMP-22,,existing commitment
+AL-00766,2027-02-15,EMP-12,PRJ-05,BAU,8,APPROVED,AP-2027-02-15-EMP-12,,existing commitment
+AL-01078,2027-03-01,EMP-18,PRJ-04,BAU,9,APPROVED,AP-2027-03-01-EMP-18,,existing commitment
+AL-00061,2027-01-11,EMP-16,PRJ-02,delivery,8,APPROVED,AP-2027-01-11-EMP-16,,existing commitment
+AL-00979,2027-02-22,EMP-29,PRJ-01,customer_support,12,APPROVED,AP-2027-02-22-EMP-29,,existing commitment
+AL-00549,2027-02-01,EMP-30,PRJ-02,delivery,9,APPROVED,AP-2027-02-01-EMP-30,,existing commitment
+AL-00288,2027-01-18,EMP-36,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00004,2027-01-11,EMP-01,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00123,2027-01-11,EMP-31,PRJ-03,customer_support,10,APPROVED,AP-2027-01-11-EMP-31,,existing commitment
+AL-01003,2027-02-22,EMP-35,PRJ-07,customer_support,12,APPROVED,AP-2027-02-22-EMP-35,,existing commitment
+AL-00616,2027-02-08,EMP-10,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00415,2027-01-25,EMP-32,PRJ-04,customer_support,12,APPROVED,AP-2027-01-25-EMP-32,,existing commitment
+AL-00030,2027-01-11,EMP-08,PRJ-01,BAU,13,APPROVED,AP-2027-01-11-EMP-08,,existing commitment
+AL-00417,2027-01-25,EMP-33,PRJ-05,delivery,9,APPROVED,AP-2027-01-25-EMP-33,,existing commitment
+AL-00308,2027-01-25,EMP-05,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01255,2027-03-08,EMP-26,PRJ-05,customer_support,12,APPROVED,AP-2027-03-08-EMP-26,,existing commitment
+AL-00404,2027-01-25,EMP-29,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01162,2027-03-08,EMP-03,PRJ-03,BAU,8,APPROVED,AP-2027-03-08-EMP-03,,existing commitment
+AL-00317,2027-01-25,EMP-08,PRJ-01,delivery,12,APPROVED,AP-2027-01-25-EMP-08,,existing commitment
+AL-00724,2027-02-15,EMP-01,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00302,2027-01-25,EMP-04,PRJ-04,BAU,12,APPROVED,AP-2027-01-25-EMP-04,,existing commitment
+AL-00926,2027-02-22,EMP-16,PRJ-02,BAU,12,APPROVED,AP-2027-02-22-EMP-16,,existing commitment
+AL-00703,2027-02-08,EMP-32,PRJ-04,customer_support,14,APPROVED,AP-2027-02-08-EMP-32,,existing commitment
+AL-00326,2027-01-25,EMP-10,PRJ-03,BAU,12,APPROVED,AP-2027-01-25-EMP-10,,existing commitment
+AL-01296,2027-03-08,EMP-36,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01021,2027-03-01,EMP-04,PRJ-04,delivery,13,APPROVED,AP-2027-03-01-EMP-04,,existing commitment
+AL-01160,2027-03-08,EMP-02,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00046,2027-01-11,EMP-12,PRJ-05,BAU,12,APPROVED,AP-2027-01-11-EMP-12,,existing commitment
+AL-00266,2027-01-18,EMP-31,PRJ-03,BAU,8,APPROVED,AP-2027-01-18-EMP-31,,existing commitment
+AL-00930,2027-02-22,EMP-17,PRJ-03,BAU,13,APPROVED,AP-2027-02-22-EMP-17,,existing commitment
+AL-00518,2027-02-01,EMP-22,PRJ-01,BAU,9,APPROVED,AP-2027-02-01-EMP-22,,existing commitment
+AL-00707,2027-02-08,EMP-33,PRJ-05,customer_support,8,APPROVED,AP-2027-02-08-EMP-33,,existing commitment
+AL-00051,2027-01-11,EMP-13,PRJ-06,customer_support,10,APPROVED,AP-2027-01-11-EMP-13,,existing commitment
+AL-01039,2027-03-01,EMP-08,PRJ-01,customer_support,12,APPROVED,AP-2027-03-01-EMP-08,,existing commitment
+AL-00993,2027-02-22,EMP-33,PRJ-05,delivery,12,APPROVED,AP-2027-02-22-EMP-33,,existing commitment
+AL-00592,2027-02-08,EMP-04,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01059,2027-03-01,EMP-13,PRJ-06,customer_support,12,APPROVED,AP-2027-03-01-EMP-13,,existing commitment
+AL-00294,2027-01-25,EMP-02,PRJ-02,BAU,10,APPROVED,AP-2027-01-25-EMP-02,,existing commitment
+AL-00737,2027-02-15,EMP-05,PRJ-05,delivery,12,APPROVED,AP-2027-02-15-EMP-05,,existing commitment
+AL-00456,2027-02-01,EMP-06,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00706,2027-02-08,EMP-33,PRJ-05,BAU,8,APPROVED,AP-2027-02-08-EMP-33,,existing commitment
+AL-00481,2027-02-01,EMP-13,PRJ-06,delivery,10,APPROVED,AP-2027-02-01-EMP-13,,existing commitment
+AL-00802,2027-02-15,EMP-21,PRJ-07,BAU,10,APPROVED,AP-2027-02-15-EMP-21,,existing commitment
+AL-01161,2027-03-08,EMP-03,PRJ-03,delivery,8,APPROVED,AP-2027-03-08-EMP-03,,existing commitment
+AL-01037,2027-03-01,EMP-08,PRJ-01,delivery,10,APPROVED,AP-2027-03-01-EMP-08,,existing commitment
+AL-00685,2027-02-08,EMP-28,PRJ-07,delivery,8,APPROVED,AP-2027-02-08-EMP-28,,existing commitment
+AL-01085,2027-03-01,EMP-20,PRJ-06,delivery,10,APPROVED,AP-2027-03-01-EMP-20,,existing commitment
+AL-00311,2027-01-25,EMP-06,PRJ-06,customer_support,12,APPROVED,AP-2027-01-25-EMP-06,,existing commitment
+AL-00604,2027-02-08,EMP-07,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00106,2027-01-11,EMP-27,PRJ-06,BAU,10,APPROVED,AP-2027-01-11-EMP-27,,existing commitment
+AL-00380,2027-01-25,EMP-23,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00623,2027-02-08,EMP-12,PRJ-05,customer_support,12,APPROVED,AP-2027-02-08-EMP-12,,existing commitment
+AL-00382,2027-01-25,EMP-24,PRJ-03,BAU,9,APPROVED,AP-2027-01-25-EMP-24,,existing commitment
+AL-00091,2027-01-11,EMP-23,PRJ-02,customer_support,12,APPROVED,AP-2027-01-11-EMP-23,,existing commitment
+AL-00113,2027-01-11,EMP-29,PRJ-01,delivery,13,APPROVED,AP-2027-01-11-EMP-29,,existing commitment
+AL-01263,2027-03-08,EMP-28,PRJ-07,customer_support,12,APPROVED,AP-2027-03-08-EMP-28,,existing commitment
+AL-00109,2027-01-11,EMP-28,PRJ-07,delivery,10,APPROVED,AP-2027-01-11-EMP-28,,existing commitment
+AL-00180,2027-01-18,EMP-09,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00607,2027-02-08,EMP-08,PRJ-01,customer_support,12,APPROVED,AP-2027-02-08-EMP-08,,existing commitment
+AL-00442,2027-02-01,EMP-03,PRJ-03,BAU,8,APPROVED,AP-2027-02-01-EMP-03,,existing commitment
+AL-00750,2027-02-15,EMP-08,PRJ-01,BAU,12,APPROVED,AP-2027-02-15-EMP-08,,existing commitment
+AL-01042,2027-03-01,EMP-09,PRJ-02,BAU,10,APPROVED,AP-2027-03-01-EMP-09,,existing commitment
+AL-00974,2027-02-22,EMP-28,PRJ-07,BAU,10,APPROVED,AP-2027-02-22-EMP-28,,existing commitment
+AL-00793,2027-02-15,EMP-19,PRJ-05,delivery,13,APPROVED,AP-2027-02-15-EMP-19,,existing commitment
+AL-00609,2027-02-08,EMP-09,PRJ-02,delivery,12,APPROVED,AP-2027-02-08-EMP-09,,existing commitment
+AL-00755,2027-02-15,EMP-09,PRJ-02,customer_support,12,APPROVED,AP-2027-02-15-EMP-09,,existing commitment
+AL-00714,2027-02-08,EMP-35,PRJ-07,BAU,12,APPROVED,AP-2027-02-08-EMP-35,,existing commitment
+AL-00277,2027-01-18,EMP-34,PRJ-06,delivery,13,APPROVED,AP-2027-01-18-EMP-34,,existing commitment
+AL-00028,2027-01-11,EMP-07,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00144,2027-01-11,EMP-36,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00653,2027-02-08,EMP-20,PRJ-06,delivery,8,APPROVED,AP-2027-02-08-EMP-20,,existing commitment
+AL-01179,2027-03-08,EMP-07,PRJ-07,customer_support,8,APPROVED,AP-2027-03-08-EMP-07,,existing commitment
+AL-00463,2027-02-01,EMP-08,PRJ-01,customer_support,12,APPROVED,AP-2027-02-01-EMP-08,,existing commitment
+AL-01244,2027-03-08,EMP-23,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01137,2027-03-01,EMP-33,PRJ-05,delivery,12,APPROVED,AP-2027-03-01-EMP-33,,existing commitment
+AL-00532,2027-02-01,EMP-25,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00645,2027-02-08,EMP-18,PRJ-04,delivery,10,APPROVED,AP-2027-02-08-EMP-18,,existing commitment
+AL-00403,2027-01-25,EMP-29,PRJ-01,customer_support,12,APPROVED,AP-2027-01-25-EMP-29,,existing commitment
+AL-00402,2027-01-25,EMP-29,PRJ-01,BAU,10,APPROVED,AP-2027-01-25-EMP-29,,existing commitment
+AL-01180,2027-03-08,EMP-07,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00795,2027-02-15,EMP-19,PRJ-05,customer_support,14,APPROVED,AP-2027-02-15-EMP-19,,existing commitment
+AL-00833,2027-02-15,EMP-29,PRJ-01,delivery,8,APPROVED,AP-2027-02-15-EMP-29,,existing commitment
+AL-00002,2027-01-11,EMP-01,PRJ-01,BAU,13,APPROVED,AP-2027-01-11-EMP-01,,existing commitment
+AL-00658,2027-02-08,EMP-21,PRJ-07,BAU,12,APPROVED,AP-2027-02-08-EMP-21,,existing commitment
+AL-00662,2027-02-08,EMP-22,PRJ-01,BAU,9,APPROVED,AP-2027-02-08-EMP-22,,existing commitment
+AL-00635,2027-02-08,EMP-15,PRJ-01,customer_support,12,APPROVED,AP-2027-02-08-EMP-15,,existing commitment
+AL-01203,2027-03-08,EMP-13,PRJ-06,customer_support,12,APPROVED,AP-2027-03-08-EMP-13,,existing commitment
+AL-01235,2027-03-08,EMP-21,PRJ-07,customer_support,12,APPROVED,AP-2027-03-08-EMP-21,,existing commitment
+AL-00241,2027-01-18,EMP-25,PRJ-04,delivery,8,APPROVED,AP-2027-01-18-EMP-25,,existing commitment
+AL-00371,2027-01-25,EMP-21,PRJ-07,customer_support,12,APPROVED,AP-2027-01-25-EMP-21,,existing commitment
+AL-00594,2027-02-08,EMP-05,PRJ-05,BAU,13,APPROVED,AP-2027-02-08-EMP-05,,existing commitment
+AL-00827,2027-02-15,EMP-27,PRJ-06,customer_support,8,APPROVED,AP-2027-02-15-EMP-27,,existing commitment
+AL-00221,2027-01-18,EMP-20,PRJ-06,delivery,10,APPROVED,AP-2027-01-18-EMP-20,,existing commitment
+AL-00708,2027-02-08,EMP-33,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00931,2027-02-22,EMP-17,PRJ-03,customer_support,14,APPROVED,AP-2027-02-22-EMP-17,,existing commitment
+AL-00775,2027-02-15,EMP-14,PRJ-07,customer_support,12,APPROVED,AP-2027-02-15-EMP-14,,existing commitment
+AL-00769,2027-02-15,EMP-13,PRJ-06,delivery,12,APPROVED,AP-2027-02-15-EMP-13,,existing commitment
+AL-00964,2027-02-22,EMP-25,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00897,2027-02-22,EMP-09,PRJ-02,delivery,9,APPROVED,AP-2027-02-22-EMP-09,,existing commitment
+AL-00869,2027-02-22,EMP-02,PRJ-02,delivery,10,APPROVED,AP-2027-02-22-EMP-02,,existing commitment
+AL-00190,2027-01-18,EMP-12,PRJ-05,BAU,10,APPROVED,AP-2027-01-18-EMP-12,,existing commitment
+AL-00665,2027-02-08,EMP-23,PRJ-02,delivery,10,APPROVED,AP-2027-02-08-EMP-23,,existing commitment
+AL-00076,2027-01-11,EMP-19,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00801,2027-02-15,EMP-21,PRJ-07,delivery,10,APPROVED,AP-2027-02-15-EMP-21,,existing commitment
+AL-01105,2027-03-01,EMP-25,PRJ-04,delivery,10,APPROVED,AP-2027-03-01-EMP-25,,existing commitment
+AL-01225,2027-03-08,EMP-19,PRJ-05,delivery,13,APPROVED,AP-2027-03-08-EMP-19,,existing commitment
+AL-00148,2027-01-18,EMP-01,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00455,2027-02-01,EMP-06,PRJ-06,customer_support,12,APPROVED,AP-2027-02-01-EMP-06,,existing commitment
+AL-00408,2027-01-25,EMP-30,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01243,2027-03-08,EMP-23,PRJ-02,customer_support,14,APPROVED,AP-2027-03-08-EMP-23,,existing commitment
+AL-00088,2027-01-11,EMP-22,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00296,2027-01-25,EMP-02,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01234,2027-03-08,EMP-21,PRJ-07,BAU,12,APPROVED,AP-2027-03-08-EMP-21,,existing commitment
+AL-00197,2027-01-18,EMP-14,PRJ-07,delivery,10,APPROVED,AP-2027-01-18-EMP-14,,existing commitment
+AL-00039,2027-01-11,EMP-10,PRJ-03,customer_support,8,APPROVED,AP-2027-01-11-EMP-10,,existing commitment
+AL-00072,2027-01-11,EMP-18,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00497,2027-02-01,EMP-17,PRJ-03,delivery,13,APPROVED,AP-2027-02-01-EMP-17,,existing commitment
+AL-00713,2027-02-08,EMP-35,PRJ-07,delivery,12,APPROVED,AP-2027-02-08-EMP-35,,existing commitment
+AL-00376,2027-01-25,EMP-22,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01253,2027-03-08,EMP-26,PRJ-05,delivery,10,APPROVED,AP-2027-03-08-EMP-26,,existing commitment
+AL-00741,2027-02-15,EMP-06,PRJ-06,delivery,13,APPROVED,AP-2027-02-15-EMP-06,,existing commitment
+AL-00682,2027-02-08,EMP-27,PRJ-06,BAU,12,APPROVED,AP-2027-02-08-EMP-27,,existing commitment
+AL-01224,2027-03-08,EMP-18,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00874,2027-02-22,EMP-03,PRJ-03,BAU,13,APPROVED,AP-2027-02-22-EMP-03,,existing commitment
+AL-00533,2027-02-01,EMP-26,PRJ-05,delivery,13,APPROVED,AP-2027-02-01-EMP-26,,existing commitment
+AL-00134,2027-01-11,EMP-34,PRJ-06,BAU,10,APPROVED,AP-2027-01-11-EMP-34,,existing commitment
+AL-01044,2027-03-01,EMP-09,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00595,2027-02-08,EMP-05,PRJ-05,customer_support,14,APPROVED,AP-2027-02-08-EMP-05,,existing commitment
+AL-00694,2027-02-08,EMP-30,PRJ-02,BAU,9,APPROVED,AP-2027-02-08-EMP-30,,existing commitment
+AL-00705,2027-02-08,EMP-33,PRJ-05,delivery,8,APPROVED,AP-2027-02-08-EMP-33,,existing commitment
+AL-00784,2027-02-15,EMP-16,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01138,2027-03-01,EMP-33,PRJ-05,BAU,12,APPROVED,AP-2027-03-01-EMP-33,,existing commitment
+AL-00263,2027-01-18,EMP-30,PRJ-02,customer_support,10,APPROVED,AP-2027-01-18-EMP-30,,existing commitment
+AL-00742,2027-02-15,EMP-06,PRJ-06,BAU,13,APPROVED,AP-2027-02-15-EMP-06,,existing commitment
+AL-01022,2027-03-01,EMP-04,PRJ-04,BAU,13,APPROVED,AP-2027-03-01-EMP-04,,existing commitment
+AL-00873,2027-02-22,EMP-03,PRJ-03,delivery,13,APPROVED,AP-2027-02-22-EMP-03,,existing commitment
+AL-00814,2027-02-15,EMP-24,PRJ-03,BAU,9,APPROVED,AP-2027-02-15-EMP-24,,existing commitment
+AL-00312,2027-01-25,EMP-06,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01066,2027-03-01,EMP-15,PRJ-01,BAU,10,APPROVED,AP-2027-03-01-EMP-15,,existing commitment
+AL-00024,2027-01-11,EMP-06,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00673,2027-02-08,EMP-25,PRJ-04,delivery,8,APPROVED,AP-2027-02-08-EMP-25,,existing commitment
+AL-00837,2027-02-15,EMP-30,PRJ-02,delivery,12,APPROVED,AP-2027-02-15-EMP-30,,existing commitment
+AL-00401,2027-01-25,EMP-29,PRJ-01,delivery,10,APPROVED,AP-2027-01-25-EMP-29,,existing commitment
+AL-00282,2027-01-18,EMP-35,PRJ-07,BAU,9,APPROVED,AP-2027-01-18-EMP-35,,existing commitment
+AL-00539,2027-02-01,EMP-27,PRJ-06,customer_support,12,APPROVED,AP-2027-02-01-EMP-27,,existing commitment
+AL-01018,2027-03-01,EMP-03,PRJ-03,BAU,13,APPROVED,AP-2027-03-01-EMP-03,,existing commitment
+AL-00647,2027-02-08,EMP-18,PRJ-04,customer_support,12,APPROVED,AP-2027-02-08-EMP-18,,existing commitment
+AL-00696,2027-02-08,EMP-30,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00272,2027-01-18,EMP-32,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00357,2027-01-25,EMP-18,PRJ-04,delivery,9,APPROVED,AP-2027-01-25-EMP-18,,existing commitment
+AL-00489,2027-02-01,EMP-15,PRJ-01,delivery,9,APPROVED,AP-2027-02-01-EMP-15,,existing commitment
+AL-00582,2027-02-08,EMP-02,PRJ-02,BAU,10,APPROVED,AP-2027-02-08-EMP-02,,existing commitment
+AL-00620,2027-02-08,EMP-11,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00550,2027-02-01,EMP-30,PRJ-02,BAU,9,APPROVED,AP-2027-02-01-EMP-30,,existing commitment
+AL-00771,2027-02-15,EMP-13,PRJ-06,customer_support,12,APPROVED,AP-2027-02-15-EMP-13,,existing commitment
+AL-00085,2027-01-11,EMP-22,PRJ-01,delivery,12,APPROVED,AP-2027-01-11-EMP-22,,existing commitment
+AL-00355,2027-01-25,EMP-17,PRJ-03,customer_support,10,APPROVED,AP-2027-01-25-EMP-17,,existing commitment
+AL-00054,2027-01-11,EMP-14,PRJ-07,BAU,13,APPROVED,AP-2027-01-11-EMP-14,,existing commitment
+AL-00279,2027-01-18,EMP-34,PRJ-06,customer_support,14,APPROVED,AP-2027-01-18-EMP-34,,existing commitment
+AL-01227,2027-03-08,EMP-19,PRJ-05,customer_support,14,APPROVED,AP-2027-03-08-EMP-19,,existing commitment
+AL-01041,2027-03-01,EMP-09,PRJ-02,delivery,10,APPROVED,AP-2027-03-01-EMP-09,,existing commitment
+AL-00424,2027-01-25,EMP-34,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01270,2027-03-08,EMP-30,PRJ-02,BAU,13,APPROVED,AP-2027-03-08-EMP-30,,existing commitment
+AL-00674,2027-02-08,EMP-25,PRJ-04,BAU,8,APPROVED,AP-2027-02-08-EMP-25,,existing commitment
+AL-00244,2027-01-18,EMP-25,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00257,2027-01-18,EMP-29,PRJ-01,delivery,10,APPROVED,AP-2027-01-18-EMP-29,,existing commitment
+AL-00050,2027-01-11,EMP-13,PRJ-06,BAU,9,APPROVED,AP-2027-01-11-EMP-13,,existing commitment
+AL-00431,2027-01-25,EMP-36,PRJ-01,customer_support,12,APPROVED,AP-2027-01-25-EMP-36,,existing commitment
+AL-00820,2027-02-15,EMP-25,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01008,2027-02-22,EMP-36,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00509,2027-02-01,EMP-20,PRJ-06,delivery,10,APPROVED,AP-2027-02-01-EMP-20,,existing commitment
+AL-00093,2027-01-11,EMP-24,PRJ-03,delivery,12,APPROVED,AP-2027-01-11-EMP-24,,existing commitment
+AL-01131,2027-03-01,EMP-31,PRJ-03,customer_support,14,APPROVED,AP-2027-03-01-EMP-31,,existing commitment
+AL-01213,2027-03-08,EMP-16,PRJ-02,delivery,13,APPROVED,AP-2027-03-08-EMP-16,,existing commitment
+AL-00905,2027-02-22,EMP-11,PRJ-04,delivery,10,APPROVED,AP-2027-02-22-EMP-11,,existing commitment
+AL-00672,2027-02-08,EMP-24,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00142,2027-01-11,EMP-36,PRJ-01,BAU,13,APPROVED,AP-2027-01-11-EMP-36,,existing commitment
+AL-01030,2027-03-01,EMP-06,PRJ-06,BAU,9,APPROVED,AP-2027-03-01-EMP-06,,existing commitment
+AL-00160,2027-01-18,EMP-04,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00726,2027-02-15,EMP-02,PRJ-02,BAU,10,APPROVED,AP-2027-02-15-EMP-02,,existing commitment
+AL-00434,2027-02-01,EMP-01,PRJ-01,BAU,9,APPROVED,AP-2027-02-01-EMP-01,,existing commitment
+AL-00219,2027-01-18,EMP-19,PRJ-05,customer_support,14,APPROVED,AP-2027-01-18-EMP-19,,existing commitment
+AL-00149,2027-01-18,EMP-02,PRJ-02,delivery,9,APPROVED,AP-2027-01-18-EMP-02,,existing commitment
+AL-00154,2027-01-18,EMP-03,PRJ-03,BAU,13,APPROVED,AP-2027-01-18-EMP-03,,existing commitment
+AL-00089,2027-01-11,EMP-23,PRJ-02,delivery,12,APPROVED,AP-2027-01-11-EMP-23,,existing commitment
+AL-00008,2027-01-11,EMP-02,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01207,2027-03-08,EMP-14,PRJ-07,customer_support,14,APPROVED,AP-2027-03-08-EMP-14,,existing commitment
+AL-00017,2027-01-11,EMP-05,PRJ-05,delivery,12,APPROVED,AP-2027-01-11-EMP-05,,existing commitment
+AL-01241,2027-03-08,EMP-23,PRJ-02,delivery,13,APPROVED,AP-2027-03-08-EMP-23,,existing commitment
+AL-00060,2027-01-11,EMP-15,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00185,2027-01-18,EMP-11,PRJ-04,delivery,13,APPROVED,AP-2027-01-18-EMP-11,,existing commitment
+AL-01081,2027-03-01,EMP-19,PRJ-05,delivery,13,APPROVED,AP-2027-03-01-EMP-19,,existing commitment
+AL-00340,2027-01-25,EMP-13,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00640,2027-02-08,EMP-16,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00987,2027-02-22,EMP-31,PRJ-03,customer_support,12,APPROVED,AP-2027-02-22-EMP-31,,existing commitment
+AL-00556,2027-02-01,EMP-31,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00728,2027-02-15,EMP-02,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00711,2027-02-08,EMP-34,PRJ-06,customer_support,12,APPROVED,AP-2027-02-08-EMP-34,,existing commitment
+AL-00274,2027-01-18,EMP-33,PRJ-05,BAU,10,APPROVED,AP-2027-01-18-EMP-33,,existing commitment
+AL-00506,2027-02-01,EMP-19,PRJ-05,BAU,8,APPROVED,AP-2027-02-01-EMP-19,,existing commitment
+AL-00597,2027-02-08,EMP-06,PRJ-06,delivery,10,APPROVED,AP-2027-02-08-EMP-06,,existing commitment
+AL-00702,2027-02-08,EMP-32,PRJ-04,BAU,13,APPROVED,AP-2027-02-08-EMP-32,,existing commitment
+AL-01173,2027-03-08,EMP-06,PRJ-06,delivery,8,APPROVED,AP-2027-03-08-EMP-06,,existing commitment
+AL-00641,2027-02-08,EMP-17,PRJ-03,delivery,9,APPROVED,AP-2027-02-08-EMP-17,,existing commitment
+AL-00628,2027-02-08,EMP-13,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00752,2027-02-15,EMP-08,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01291,2027-03-08,EMP-35,PRJ-07,customer_support,14,APPROVED,AP-2027-03-08-EMP-35,,existing commitment
+AL-01290,2027-03-08,EMP-35,PRJ-07,BAU,13,APPROVED,AP-2027-03-08-EMP-35,,existing commitment
+AL-00132,2027-01-11,EMP-33,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01072,2027-03-01,EMP-16,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01274,2027-03-08,EMP-31,PRJ-03,BAU,10,APPROVED,AP-2027-03-08-EMP-31,,existing commitment
+AL-00799,2027-02-15,EMP-20,PRJ-06,customer_support,12,APPROVED,AP-2027-02-15-EMP-20,,existing commitment
+AL-00350,2027-01-25,EMP-16,PRJ-02,BAU,9,APPROVED,AP-2027-01-25-EMP-16,,existing commitment
+AL-00990,2027-02-22,EMP-32,PRJ-04,BAU,13,APPROVED,AP-2027-02-22-EMP-32,,existing commitment
+AL-01128,2027-03-01,EMP-30,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00634,2027-02-08,EMP-15,PRJ-01,BAU,10,APPROVED,AP-2027-02-08-EMP-15,,existing commitment
+AL-00847,2027-02-15,EMP-32,PRJ-04,customer_support,14,APPROVED,AP-2027-02-15-EMP-32,,existing commitment
+AL-00161,2027-01-18,EMP-05,PRJ-05,delivery,13,APPROVED,AP-2027-01-18-EMP-05,,existing commitment
+AL-01292,2027-03-08,EMP-35,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01188,2027-03-08,EMP-09,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00586,2027-02-08,EMP-03,PRJ-03,BAU,10,APPROVED,AP-2027-02-08-EMP-03,,existing commitment
+AL-00868,2027-02-22,EMP-01,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00475,2027-02-01,EMP-11,PRJ-04,customer_support,12,APPROVED,AP-2027-02-01-EMP-11,,existing commitment
+AL-00313,2027-01-25,EMP-07,PRJ-07,delivery,12,APPROVED,AP-2027-01-25-EMP-07,,existing commitment
+AL-00552,2027-02-01,EMP-30,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00516,2027-02-01,EMP-21,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00612,2027-02-08,EMP-09,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00009,2027-01-11,EMP-03,PRJ-03,delivery,9,APPROVED,AP-2027-01-11-EMP-03,,existing commitment
+AL-01086,2027-03-01,EMP-20,PRJ-06,BAU,10,APPROVED,AP-2027-03-01-EMP-20,,existing commitment
+AL-00596,2027-02-08,EMP-05,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00951,2027-02-22,EMP-22,PRJ-01,customer_support,12,APPROVED,AP-2027-02-22-EMP-22,,existing commitment
+AL-00414,2027-01-25,EMP-32,PRJ-04,BAU,12,APPROVED,AP-2027-01-25-EMP-32,,existing commitment
+AL-00910,2027-02-22,EMP-12,PRJ-05,BAU,12,APPROVED,AP-2027-02-22-EMP-12,,existing commitment
+AL-00476,2027-02-01,EMP-11,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01143,2027-03-01,EMP-34,PRJ-06,customer_support,10,APPROVED,AP-2027-03-01-EMP-34,,existing commitment
+AL-00151,2027-01-18,EMP-02,PRJ-02,customer_support,10,APPROVED,AP-2027-01-18-EMP-02,,existing commitment
+AL-00103,2027-01-11,EMP-26,PRJ-05,customer_support,12,APPROVED,AP-2027-01-11-EMP-26,,existing commitment
+AL-00301,2027-01-25,EMP-04,PRJ-04,delivery,12,APPROVED,AP-2027-01-25-EMP-04,,existing commitment
+AL-01271,2027-03-08,EMP-30,PRJ-02,customer_support,14,APPROVED,AP-2027-03-08-EMP-30,,existing commitment
+AL-00764,2027-02-15,EMP-11,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00248,2027-01-18,EMP-26,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00568,2027-02-01,EMP-34,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01190,2027-03-08,EMP-10,PRJ-03,BAU,12,APPROVED,AP-2027-03-08-EMP-10,,existing commitment
+AL-00956,2027-02-22,EMP-23,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00540,2027-02-01,EMP-27,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00419,2027-01-25,EMP-33,PRJ-05,customer_support,10,APPROVED,AP-2027-01-25-EMP-33,,existing commitment
+AL-00116,2027-01-11,EMP-29,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00934,2027-02-22,EMP-18,PRJ-04,BAU,10,APPROVED,AP-2027-02-22-EMP-18,,existing commitment
+AL-00025,2027-01-11,EMP-07,PRJ-07,delivery,9,APPROVED,AP-2027-01-11-EMP-07,,existing commitment
+AL-00583,2027-02-08,EMP-02,PRJ-02,customer_support,12,APPROVED,AP-2027-02-08-EMP-02,,existing commitment
+AL-01293,2027-03-08,EMP-36,PRJ-01,delivery,10,APPROVED,AP-2027-03-08-EMP-36,,existing commitment
+AL-00441,2027-02-01,EMP-03,PRJ-03,delivery,8,APPROVED,AP-2027-02-01-EMP-03,,existing commitment
+AL-00544,2027-02-01,EMP-28,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00797,2027-02-15,EMP-20,PRJ-06,delivery,10,APPROVED,AP-2027-02-15-EMP-20,,existing commitment
+AL-01079,2027-03-01,EMP-18,PRJ-04,customer_support,10,APPROVED,AP-2027-03-01-EMP-18,,existing commitment
+AL-01123,2027-03-01,EMP-29,PRJ-01,customer_support,8,APPROVED,AP-2027-03-01-EMP-29,,existing commitment
+AL-00158,2027-01-18,EMP-04,PRJ-04,BAU,10,APPROVED,AP-2027-01-18-EMP-04,,existing commitment
+AL-01075,2027-03-01,EMP-17,PRJ-03,customer_support,10,APPROVED,AP-2027-03-01-EMP-17,,existing commitment
+AL-00588,2027-02-08,EMP-03,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00822,2027-02-15,EMP-26,PRJ-05,BAU,12,APPROVED,AP-2027-02-15-EMP-26,,existing commitment
+AL-00329,2027-01-25,EMP-11,PRJ-04,delivery,10,APPROVED,AP-2027-01-25-EMP-11,,existing commitment
+AL-00885,2027-02-22,EMP-06,PRJ-06,delivery,13,APPROVED,AP-2027-02-22-EMP-06,,existing commitment
+AL-01215,2027-03-08,EMP-16,PRJ-02,customer_support,14,APPROVED,AP-2027-03-08-EMP-16,,existing commitment
+AL-00473,2027-02-01,EMP-11,PRJ-04,delivery,10,APPROVED,AP-2027-02-01-EMP-11,,existing commitment
+AL-01157,2027-03-08,EMP-02,PRJ-02,delivery,8,APPROVED,AP-2027-03-08-EMP-02,,existing commitment
+AL-00445,2027-02-01,EMP-04,PRJ-04,delivery,13,APPROVED,AP-2027-02-01-EMP-04,,existing commitment
+AL-01222,2027-03-08,EMP-18,PRJ-04,BAU,12,APPROVED,AP-2027-03-08-EMP-18,,existing commitment
+AL-00363,2027-01-25,EMP-19,PRJ-05,customer_support,12,APPROVED,AP-2027-01-25-EMP-19,,existing commitment
+AL-01146,2027-03-01,EMP-35,PRJ-07,BAU,9,APPROVED,AP-2027-03-01-EMP-35,,existing commitment
+AL-01130,2027-03-01,EMP-31,PRJ-03,BAU,13,APPROVED,AP-2027-03-01-EMP-31,,existing commitment
+AL-01017,2027-03-01,EMP-03,PRJ-03,delivery,13,APPROVED,AP-2027-03-01-EMP-03,,existing commitment
+AL-00133,2027-01-11,EMP-34,PRJ-06,delivery,10,APPROVED,AP-2027-01-11-EMP-34,,existing commitment
+AL-01193,2027-03-08,EMP-11,PRJ-04,delivery,13,APPROVED,AP-2027-03-08-EMP-11,,existing commitment
+AL-01135,2027-03-01,EMP-32,PRJ-04,customer_support,8,APPROVED,AP-2027-03-01-EMP-32,,existing commitment
+AL-00677,2027-02-08,EMP-26,PRJ-05,delivery,10,APPROVED,AP-2027-02-08-EMP-26,,existing commitment
+AL-00319,2027-01-25,EMP-08,PRJ-01,customer_support,12,APPROVED,AP-2027-01-25-EMP-08,,existing commitment
+AL-00562,2027-02-01,EMP-33,PRJ-05,BAU,13,APPROVED,AP-2027-02-01-EMP-33,,existing commitment
+AL-00247,2027-01-18,EMP-26,PRJ-05,customer_support,12,APPROVED,AP-2027-01-18-EMP-26,,existing commitment
+AL-00864,2027-02-15,EMP-36,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00627,2027-02-08,EMP-13,PRJ-06,customer_support,12,APPROVED,AP-2027-02-08-EMP-13,,existing commitment
+AL-00479,2027-02-01,EMP-12,PRJ-05,customer_support,10,APPROVED,AP-2027-02-01-EMP-12,,existing commitment
+AL-00260,2027-01-18,EMP-29,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00715,2027-02-08,EMP-35,PRJ-07,customer_support,12,APPROVED,AP-2027-02-08-EMP-35,,existing commitment
+AL-00053,2027-01-11,EMP-14,PRJ-07,delivery,13,APPROVED,AP-2027-01-11-EMP-14,,existing commitment
+AL-00360,2027-01-25,EMP-18,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00777,2027-02-15,EMP-15,PRJ-01,delivery,10,APPROVED,AP-2027-02-15-EMP-15,,existing commitment
+AL-01020,2027-03-01,EMP-03,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00378,2027-01-25,EMP-23,PRJ-02,BAU,10,APPROVED,AP-2027-01-25-EMP-23,,existing commitment
+AL-00307,2027-01-25,EMP-05,PRJ-05,customer_support,12,APPROVED,AP-2027-01-25-EMP-05,,existing commitment
+AL-00565,2027-02-01,EMP-34,PRJ-06,delivery,10,APPROVED,AP-2027-02-01-EMP-34,,existing commitment
+AL-00369,2027-01-25,EMP-21,PRJ-07,delivery,12,APPROVED,AP-2027-01-25-EMP-21,,existing commitment
+AL-00077,2027-01-11,EMP-20,PRJ-06,delivery,12,APPROVED,AP-2027-01-11-EMP-20,,existing commitment
+AL-00232,2027-01-18,EMP-22,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01279,2027-03-08,EMP-32,PRJ-04,customer_support,14,APPROVED,AP-2027-03-08-EMP-32,,existing commitment
+AL-00836,2027-02-15,EMP-29,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00561,2027-02-01,EMP-33,PRJ-05,delivery,13,APPROVED,AP-2027-02-01-EMP-33,,existing commitment
+AL-01142,2027-03-01,EMP-34,PRJ-06,BAU,9,APPROVED,AP-2027-03-01-EMP-34,,existing commitment
+AL-00055,2027-01-11,EMP-14,PRJ-07,customer_support,14,APPROVED,AP-2027-01-11-EMP-14,,existing commitment
+AL-00572,2027-02-01,EMP-35,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00913,2027-02-22,EMP-13,PRJ-06,delivery,13,APPROVED,AP-2027-02-22-EMP-13,,existing commitment
+AL-00992,2027-02-22,EMP-32,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00924,2027-02-22,EMP-15,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00409,2027-01-25,EMP-31,PRJ-03,delivery,10,APPROVED,AP-2027-01-25-EMP-31,,existing commitment
+AL-00929,2027-02-22,EMP-17,PRJ-03,delivery,13,APPROVED,AP-2027-02-22-EMP-17,,existing commitment
+AL-00388,2027-01-25,EMP-25,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01183,2027-03-08,EMP-08,PRJ-01,customer_support,8,APPROVED,AP-2027-03-08-EMP-08,,existing commitment
+AL-00062,2027-01-11,EMP-16,PRJ-02,BAU,8,APPROVED,AP-2027-01-11-EMP-16,,existing commitment
+AL-01043,2027-03-01,EMP-09,PRJ-02,customer_support,12,APPROVED,AP-2027-03-01-EMP-09,,existing commitment
+AL-00526,2027-02-01,EMP-24,PRJ-03,BAU,12,APPROVED,AP-2027-02-01-EMP-24,,existing commitment
+AL-00256,2027-01-18,EMP-28,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00195,2027-01-18,EMP-13,PRJ-06,customer_support,10,APPROVED,AP-2027-01-18-EMP-13,,existing commitment
+AL-00976,2027-02-22,EMP-28,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00739,2027-02-15,EMP-05,PRJ-05,customer_support,12,APPROVED,AP-2027-02-15-EMP-05,,existing commitment
+AL-00239,2027-01-18,EMP-24,PRJ-03,customer_support,12,APPROVED,AP-2027-01-18-EMP-24,,existing commitment
+AL-00866,2027-02-22,EMP-01,PRJ-01,BAU,8,APPROVED,AP-2027-02-22-EMP-01,,existing commitment
+AL-00936,2027-02-22,EMP-18,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00316,2027-01-25,EMP-07,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00569,2027-02-01,EMP-35,PRJ-07,delivery,8,APPROVED,AP-2027-02-01-EMP-35,,existing commitment
+AL-00362,2027-01-25,EMP-19,PRJ-05,BAU,12,APPROVED,AP-2027-01-25-EMP-19,,existing commitment
+AL-00273,2027-01-18,EMP-33,PRJ-05,delivery,10,APPROVED,AP-2027-01-18-EMP-33,,existing commitment
+AL-00478,2027-02-01,EMP-12,PRJ-05,BAU,9,APPROVED,AP-2027-02-01-EMP-12,,existing commitment
+AL-00918,2027-02-22,EMP-14,PRJ-07,BAU,12,APPROVED,AP-2027-02-22-EMP-14,,existing commitment
+AL-00428,2027-01-25,EMP-35,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00810,2027-02-15,EMP-23,PRJ-02,BAU,10,APPROVED,AP-2027-02-15-EMP-23,,existing commitment
+AL-01140,2027-03-01,EMP-33,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01221,2027-03-08,EMP-18,PRJ-04,delivery,12,APPROVED,AP-2027-03-08-EMP-18,,existing commitment
+AL-01069,2027-03-01,EMP-16,PRJ-02,delivery,12,APPROVED,AP-2027-03-01-EMP-16,,existing commitment
+AL-00798,2027-02-15,EMP-20,PRJ-06,BAU,10,APPROVED,AP-2027-02-15-EMP-20,,existing commitment
+AL-00950,2027-02-22,EMP-22,PRJ-01,BAU,10,APPROVED,AP-2027-02-22-EMP-22,,existing commitment
+AL-00183,2027-01-18,EMP-10,PRJ-03,customer_support,10,APPROVED,AP-2027-01-18-EMP-10,,existing commitment
+AL-00176,2027-01-18,EMP-08,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01115,2027-03-01,EMP-27,PRJ-06,customer_support,12,APPROVED,AP-2027-03-01-EMP-27,,existing commitment
+AL-00261,2027-01-18,EMP-30,PRJ-02,delivery,9,APPROVED,AP-2027-01-18-EMP-30,,existing commitment
+AL-01219,2027-03-08,EMP-17,PRJ-03,customer_support,12,APPROVED,AP-2027-03-08-EMP-17,,existing commitment
+AL-00096,2027-01-11,EMP-24,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00470,2027-02-01,EMP-10,PRJ-03,BAU,12,APPROVED,AP-2027-02-01-EMP-10,,existing commitment
+AL-00483,2027-02-01,EMP-13,PRJ-06,customer_support,12,APPROVED,AP-2027-02-01-EMP-13,,existing commitment
+AL-01056,2027-03-01,EMP-12,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01090,2027-03-01,EMP-21,PRJ-07,BAU,9,APPROVED,AP-2027-03-01-EMP-21,,existing commitment
+AL-01195,2027-03-08,EMP-11,PRJ-04,customer_support,14,APPROVED,AP-2027-03-08-EMP-11,,existing commitment
+AL-00875,2027-02-22,EMP-03,PRJ-03,customer_support,14,APPROVED,AP-2027-02-22-EMP-03,,existing commitment
+AL-00468,2027-02-01,EMP-09,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00657,2027-02-08,EMP-21,PRJ-07,delivery,12,APPROVED,AP-2027-02-08-EMP-21,,existing commitment
+AL-00140,2027-01-11,EMP-35,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00817,2027-02-15,EMP-25,PRJ-04,delivery,10,APPROVED,AP-2027-02-15-EMP-25,,existing commitment
+AL-00150,2027-01-18,EMP-02,PRJ-02,BAU,9,APPROVED,AP-2027-01-18-EMP-02,,existing commitment
+AL-01175,2027-03-08,EMP-06,PRJ-06,customer_support,8,APPROVED,AP-2027-03-08-EMP-06,,existing commitment
+AL-00736,2027-02-15,EMP-04,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00349,2027-01-25,EMP-16,PRJ-02,delivery,9,APPROVED,AP-2027-01-25-EMP-16,,existing commitment
+AL-01154,2027-03-08,EMP-01,PRJ-01,BAU,8,APPROVED,AP-2027-03-08-EMP-01,,existing commitment
+AL-00646,2027-02-08,EMP-18,PRJ-04,BAU,10,APPROVED,AP-2027-02-08-EMP-18,,existing commitment
+AL-00084,2027-01-11,EMP-21,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01108,2027-03-01,EMP-25,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01099,2027-03-01,EMP-23,PRJ-02,customer_support,10,APPROVED,AP-2027-03-01-EMP-23,,existing commitment
+AL-00303,2027-01-25,EMP-04,PRJ-04,customer_support,12,APPROVED,AP-2027-01-25-EMP-04,,existing commitment
+AL-00331,2027-01-25,EMP-11,PRJ-04,customer_support,12,APPROVED,AP-2027-01-25-EMP-11,,existing commitment
+AL-00928,2027-02-22,EMP-16,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00501,2027-02-01,EMP-18,PRJ-04,delivery,9,APPROVED,AP-2027-02-01-EMP-18,,existing commitment
+AL-00298,2027-01-25,EMP-03,PRJ-03,BAU,13,APPROVED,AP-2027-01-25-EMP-03,,existing commitment
+AL-00477,2027-02-01,EMP-12,PRJ-05,delivery,9,APPROVED,AP-2027-02-01-EMP-12,,existing commitment
+AL-00666,2027-02-08,EMP-23,PRJ-02,BAU,10,APPROVED,AP-2027-02-08-EMP-23,,existing commitment
+AL-00991,2027-02-22,EMP-32,PRJ-04,customer_support,14,APPROVED,AP-2027-02-22-EMP-32,,existing commitment
+AL-00959,2027-02-22,EMP-24,PRJ-03,customer_support,12,APPROVED,AP-2027-02-22-EMP-24,,existing commitment
+AL-00196,2027-01-18,EMP-13,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00514,2027-02-01,EMP-21,PRJ-07,BAU,12,APPROVED,AP-2027-02-01-EMP-21,,existing commitment
+AL-00895,2027-02-22,EMP-08,PRJ-01,customer_support,12,APPROVED,AP-2027-02-22-EMP-08,,existing commitment
+AL-00695,2027-02-08,EMP-30,PRJ-02,customer_support,10,APPROVED,AP-2027-02-08-EMP-30,,existing commitment
+AL-00859,2027-02-15,EMP-35,PRJ-07,customer_support,12,APPROVED,AP-2027-02-15-EMP-35,,existing commitment
+AL-00337,2027-01-25,EMP-13,PRJ-06,delivery,8,APPROVED,AP-2027-01-25-EMP-13,,existing commitment
+AL-00335,2027-01-25,EMP-12,PRJ-05,customer_support,8,APPROVED,AP-2027-01-25-EMP-12,,existing commitment
+AL-00498,2027-02-01,EMP-17,PRJ-03,BAU,13,APPROVED,AP-2027-02-01-EMP-17,,existing commitment
+AL-01028,2027-03-01,EMP-05,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00043,2027-01-11,EMP-11,PRJ-04,customer_support,14,APPROVED,AP-2027-01-11-EMP-11,,existing commitment
+AL-00505,2027-02-01,EMP-19,PRJ-05,delivery,8,APPROVED,AP-2027-02-01-EMP-19,,existing commitment
+AL-01063,2027-03-01,EMP-14,PRJ-07,customer_support,12,APPROVED,AP-2027-03-01-EMP-14,,existing commitment
+AL-00366,2027-01-25,EMP-20,PRJ-06,BAU,10,APPROVED,AP-2027-01-25-EMP-20,,existing commitment
+AL-00175,2027-01-18,EMP-08,PRJ-01,customer_support,12,APPROVED,AP-2027-01-18-EMP-08,,existing commitment
+AL-00835,2027-02-15,EMP-29,PRJ-01,customer_support,8,APPROVED,AP-2027-02-15-EMP-29,,existing commitment
+AL-00860,2027-02-15,EMP-35,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00608,2027-02-08,EMP-08,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00450,2027-02-01,EMP-05,PRJ-05,BAU,8,APPROVED,AP-2027-02-01-EMP-05,,existing commitment
+AL-01187,2027-03-08,EMP-09,PRJ-02,customer_support,14,APPROVED,AP-2027-03-08-EMP-09,,existing commitment
+AL-00629,2027-02-08,EMP-14,PRJ-07,delivery,12,APPROVED,AP-2027-02-08-EMP-14,,existing commitment
+AL-01091,2027-03-01,EMP-21,PRJ-07,customer_support,10,APPROVED,AP-2027-03-01-EMP-21,,existing commitment
+AL-01049,2027-03-01,EMP-11,PRJ-04,delivery,10,APPROVED,AP-2027-03-01-EMP-11,,existing commitment
+AL-00449,2027-02-01,EMP-05,PRJ-05,delivery,8,APPROVED,AP-2027-02-01-EMP-05,,existing commitment
+AL-01074,2027-03-01,EMP-17,PRJ-03,BAU,9,APPROVED,AP-2027-03-01-EMP-17,,existing commitment
+AL-00717,2027-02-08,EMP-36,PRJ-01,delivery,12,APPROVED,AP-2027-02-08-EMP-36,,existing commitment
+AL-00633,2027-02-08,EMP-15,PRJ-01,delivery,10,APPROVED,AP-2027-02-08-EMP-15,,existing commitment
+AL-01186,2027-03-08,EMP-09,PRJ-02,BAU,13,APPROVED,AP-2027-03-08-EMP-09,,existing commitment
+AL-00941,2027-02-22,EMP-20,PRJ-06,delivery,12,APPROVED,AP-2027-02-22-EMP-20,,existing commitment
+AL-00073,2027-01-11,EMP-19,PRJ-05,delivery,9,APPROVED,AP-2027-01-11-EMP-19,,existing commitment
+AL-00100,2027-01-11,EMP-25,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00948,2027-02-22,EMP-21,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01024,2027-03-01,EMP-04,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00579,2027-02-08,EMP-01,PRJ-01,customer_support,10,APPROVED,AP-2027-02-08-EMP-01,,existing commitment
+AL-01013,2027-03-01,EMP-02,PRJ-02,delivery,12,APPROVED,AP-2027-03-01-EMP-02,,existing commitment
+AL-00738,2027-02-15,EMP-05,PRJ-05,BAU,12,APPROVED,AP-2027-02-15-EMP-05,,existing commitment
+AL-00343,2027-01-25,EMP-14,PRJ-07,customer_support,12,APPROVED,AP-2027-01-25-EMP-14,,existing commitment
+AL-00848,2027-02-15,EMP-32,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00740,2027-02-15,EMP-05,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00851,2027-02-15,EMP-33,PRJ-05,customer_support,14,APPROVED,AP-2027-02-15-EMP-33,,existing commitment
+AL-00461,2027-02-01,EMP-08,PRJ-01,delivery,10,APPROVED,AP-2027-02-01-EMP-08,,existing commitment
+AL-00457,2027-02-01,EMP-07,PRJ-07,delivery,9,APPROVED,AP-2027-02-01-EMP-07,,existing commitment
+AL-01249,2027-03-08,EMP-25,PRJ-04,delivery,10,APPROVED,AP-2027-03-08-EMP-25,,existing commitment
+AL-01264,2027-03-08,EMP-28,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00469,2027-02-01,EMP-10,PRJ-03,delivery,12,APPROVED,AP-2027-02-01-EMP-10,,existing commitment
+AL-00381,2027-01-25,EMP-24,PRJ-03,delivery,9,APPROVED,AP-2027-01-25-EMP-24,,existing commitment
+AL-00474,2027-02-01,EMP-11,PRJ-04,BAU,10,APPROVED,AP-2027-02-01-EMP-11,,existing commitment
+AL-00863,2027-02-15,EMP-36,PRJ-01,customer_support,12,APPROVED,AP-2027-02-15-EMP-36,,existing commitment
+AL-01112,2027-03-01,EMP-26,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00338,2027-01-25,EMP-13,PRJ-06,BAU,8,APPROVED,AP-2027-01-25-EMP-13,,existing commitment
+AL-01268,2027-03-08,EMP-29,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00778,2027-02-15,EMP-15,PRJ-01,BAU,10,APPROVED,AP-2027-02-15-EMP-15,,existing commitment
+AL-01060,2027-03-01,EMP-13,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00826,2027-02-15,EMP-27,PRJ-06,BAU,8,APPROVED,AP-2027-02-15-EMP-27,,existing commitment
+AL-00841,2027-02-15,EMP-31,PRJ-03,delivery,10,APPROVED,AP-2027-02-15-EMP-31,,existing commitment
+AL-00947,2027-02-22,EMP-21,PRJ-07,customer_support,12,APPROVED,AP-2027-02-22-EMP-21,,existing commitment
+AL-00850,2027-02-15,EMP-33,PRJ-05,BAU,13,APPROVED,AP-2027-02-15-EMP-33,,existing commitment
+AL-00074,2027-01-11,EMP-19,PRJ-05,BAU,9,APPROVED,AP-2027-01-11-EMP-19,,existing commitment
+AL-00954,2027-02-22,EMP-23,PRJ-02,BAU,9,APPROVED,AP-2027-02-22-EMP-23,,existing commitment
+AL-00618,2027-02-08,EMP-11,PRJ-04,BAU,10,APPROVED,AP-2027-02-08-EMP-11,,existing commitment
+AL-00889,2027-02-22,EMP-07,PRJ-07,delivery,10,APPROVED,AP-2027-02-22-EMP-07,,existing commitment
+AL-00683,2027-02-08,EMP-27,PRJ-06,customer_support,12,APPROVED,AP-2027-02-08-EMP-27,,existing commitment
+AL-00735,2027-02-15,EMP-04,PRJ-04,customer_support,14,APPROVED,AP-2027-02-15-EMP-04,,existing commitment
+AL-00104,2027-01-11,EMP-26,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00932,2027-02-22,EMP-17,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01166,2027-03-08,EMP-04,PRJ-04,BAU,8,APPROVED,AP-2027-03-08-EMP-04,,existing commitment
+AL-00048,2027-01-11,EMP-12,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00546,2027-02-01,EMP-29,PRJ-01,BAU,12,APPROVED,AP-2027-02-01-EMP-29,,existing commitment
+AL-01206,2027-03-08,EMP-14,PRJ-07,BAU,13,APPROVED,AP-2027-03-08-EMP-14,,existing commitment
+AL-00510,2027-02-01,EMP-20,PRJ-06,BAU,10,APPROVED,AP-2027-02-01-EMP-20,,existing commitment
+AL-00099,2027-01-11,EMP-25,PRJ-04,customer_support,12,APPROVED,AP-2027-01-11-EMP-25,,existing commitment
+AL-00177,2027-01-18,EMP-09,PRJ-02,delivery,12,APPROVED,AP-2027-01-18-EMP-09,,existing commitment
+AL-00960,2027-02-22,EMP-24,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00281,2027-01-18,EMP-35,PRJ-07,delivery,9,APPROVED,AP-2027-01-18-EMP-35,,existing commitment
+AL-00063,2027-01-11,EMP-16,PRJ-02,customer_support,8,APPROVED,AP-2027-01-11-EMP-16,,existing commitment
+AL-00192,2027-01-18,EMP-12,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00652,2027-02-08,EMP-19,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00751,2027-02-15,EMP-08,PRJ-01,customer_support,12,APPROVED,AP-2027-02-15-EMP-08,,existing commitment
+AL-01093,2027-03-01,EMP-22,PRJ-01,delivery,10,APPROVED,AP-2027-03-01-EMP-22,,existing commitment
+AL-00511,2027-02-01,EMP-20,PRJ-06,customer_support,12,APPROVED,AP-2027-02-01-EMP-20,,existing commitment
+AL-00661,2027-02-08,EMP-22,PRJ-01,delivery,9,APPROVED,AP-2027-02-08-EMP-22,,existing commitment
+AL-00953,2027-02-22,EMP-23,PRJ-02,delivery,9,APPROVED,AP-2027-02-22-EMP-23,,existing commitment
+AL-00690,2027-02-08,EMP-29,PRJ-01,BAU,13,APPROVED,AP-2027-02-08-EMP-29,,existing commitment
+AL-01005,2027-02-22,EMP-36,PRJ-01,delivery,12,APPROVED,AP-2027-02-22-EMP-36,,existing commitment
+AL-00602,2027-02-08,EMP-07,PRJ-07,BAU,10,APPROVED,AP-2027-02-08-EMP-07,,existing commitment
+AL-01119,2027-03-01,EMP-28,PRJ-07,customer_support,12,APPROVED,AP-2027-03-01-EMP-28,,existing commitment
+AL-00275,2027-01-18,EMP-33,PRJ-05,customer_support,12,APPROVED,AP-2027-01-18-EMP-33,,existing commitment
+AL-00655,2027-02-08,EMP-20,PRJ-06,customer_support,8,APPROVED,AP-2027-02-08-EMP-20,,existing commitment
+AL-00135,2027-01-11,EMP-34,PRJ-06,customer_support,12,APPROVED,AP-2027-01-11-EMP-34,,existing commitment
+AL-00018,2027-01-11,EMP-05,PRJ-05,BAU,12,APPROVED,AP-2027-01-11-EMP-05,,existing commitment
+AL-01104,2027-03-01,EMP-24,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00996,2027-02-22,EMP-33,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00286,2027-01-18,EMP-36,PRJ-01,BAU,9,APPROVED,AP-2027-01-18-EMP-36,,existing commitment
+AL-00700,2027-02-08,EMP-31,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00857,2027-02-15,EMP-35,PRJ-07,delivery,10,APPROVED,AP-2027-02-15-EMP-35,,existing commitment
+AL-00292,2027-01-25,EMP-01,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00156,2027-01-18,EMP-03,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01192,2027-03-08,EMP-10,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00699,2027-02-08,EMP-31,PRJ-03,customer_support,12,APPROVED,AP-2027-02-08-EMP-31,,existing commitment
+AL-00943,2027-02-22,EMP-20,PRJ-06,customer_support,12,APPROVED,AP-2027-02-22-EMP-20,,existing commitment
+AL-00397,2027-01-25,EMP-28,PRJ-07,delivery,10,APPROVED,AP-2027-01-25-EMP-28,,existing commitment
+AL-00858,2027-02-15,EMP-35,PRJ-07,BAU,10,APPROVED,AP-2027-02-15-EMP-35,,existing commitment
+AL-01033,2027-03-01,EMP-07,PRJ-07,delivery,10,APPROVED,AP-2027-03-01-EMP-07,,existing commitment
+AL-01194,2027-03-08,EMP-11,PRJ-04,BAU,13,APPROVED,AP-2027-03-08-EMP-11,,existing commitment
+AL-00659,2027-02-08,EMP-21,PRJ-07,customer_support,12,APPROVED,AP-2027-02-08-EMP-21,,existing commitment
+AL-00545,2027-02-01,EMP-29,PRJ-01,delivery,12,APPROVED,AP-2027-02-01-EMP-29,,existing commitment
+AL-00278,2027-01-18,EMP-34,PRJ-06,BAU,13,APPROVED,AP-2027-01-18-EMP-34,,existing commitment
+AL-00214,2027-01-18,EMP-18,PRJ-04,BAU,9,APPROVED,AP-2027-01-18-EMP-18,,existing commitment
+AL-00693,2027-02-08,EMP-30,PRJ-02,delivery,9,APPROVED,AP-2027-02-08-EMP-30,,existing commitment
+AL-00649,2027-02-08,EMP-19,PRJ-05,delivery,10,APPROVED,AP-2027-02-08-EMP-19,,existing commitment
+AL-00912,2027-02-22,EMP-12,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00527,2027-02-01,EMP-24,PRJ-03,customer_support,12,APPROVED,AP-2027-02-01-EMP-24,,existing commitment
+AL-01189,2027-03-08,EMP-10,PRJ-03,delivery,12,APPROVED,AP-2027-03-08-EMP-10,,existing commitment
+AL-00813,2027-02-15,EMP-24,PRJ-03,delivery,9,APPROVED,AP-2027-02-15-EMP-24,,existing commitment
+AL-00202,2027-01-18,EMP-15,PRJ-01,BAU,8,APPROVED,AP-2027-01-18-EMP-15,,existing commitment
+AL-00946,2027-02-22,EMP-21,PRJ-07,BAU,10,APPROVED,AP-2027-02-22-EMP-21,,existing commitment
+AL-00204,2027-01-18,EMP-15,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00399,2027-01-25,EMP-28,PRJ-07,customer_support,12,APPROVED,AP-2027-01-25-EMP-28,,existing commitment
+AL-01205,2027-03-08,EMP-14,PRJ-07,delivery,13,APPROVED,AP-2027-03-08-EMP-14,,existing commitment
+AL-00427,2027-01-25,EMP-35,PRJ-07,customer_support,10,APPROVED,AP-2027-01-25-EMP-35,,existing commitment
+AL-00865,2027-02-22,EMP-01,PRJ-01,delivery,8,APPROVED,AP-2027-02-22-EMP-01,,existing commitment
+AL-00543,2027-02-01,EMP-28,PRJ-07,customer_support,12,APPROVED,AP-2027-02-01-EMP-28,,existing commitment
+AL-00542,2027-02-01,EMP-28,PRJ-07,BAU,12,APPROVED,AP-2027-02-01-EMP-28,,existing commitment
+AL-00883,2027-02-22,EMP-05,PRJ-05,customer_support,12,APPROVED,AP-2027-02-22-EMP-05,,existing commitment
+AL-00939,2027-02-22,EMP-19,PRJ-05,customer_support,12,APPROVED,AP-2027-02-22-EMP-19,,existing commitment
+AL-00555,2027-02-01,EMP-31,PRJ-03,customer_support,12,APPROVED,AP-2027-02-01-EMP-31,,existing commitment
+AL-00022,2027-01-11,EMP-06,PRJ-06,BAU,12,APPROVED,AP-2027-01-11-EMP-06,,existing commitment
+AL-00430,2027-01-25,EMP-36,PRJ-01,BAU,12,APPROVED,AP-2027-01-25-EMP-36,,existing commitment
+AL-01027,2027-03-01,EMP-05,PRJ-05,customer_support,10,APPROVED,AP-2027-03-01-EMP-05,,existing commitment
+AL-01011,2027-03-01,EMP-01,PRJ-01,customer_support,14,APPROVED,AP-2027-03-01-EMP-01,,existing commitment
+AL-00233,2027-01-18,EMP-23,PRJ-02,delivery,13,APPROVED,AP-2027-01-18-EMP-23,,existing commitment
+AL-00952,2027-02-22,EMP-22,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01260,2027-03-08,EMP-27,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01088,2027-03-01,EMP-20,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00824,2027-02-15,EMP-26,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00127,2027-01-11,EMP-32,PRJ-04,customer_support,14,APPROVED,AP-2027-01-11-EMP-32,,existing commitment
+AL-00971,2027-02-22,EMP-27,PRJ-06,customer_support,12,APPROVED,AP-2027-02-22-EMP-27,,existing commitment
+AL-00622,2027-02-08,EMP-12,PRJ-05,BAU,10,APPROVED,AP-2027-02-08-EMP-12,,existing commitment
+AL-00842,2027-02-15,EMP-31,PRJ-03,BAU,10,APPROVED,AP-2027-02-15-EMP-31,,existing commitment
+AL-00955,2027-02-22,EMP-23,PRJ-02,customer_support,10,APPROVED,AP-2027-02-22-EMP-23,,existing commitment
+AL-00090,2027-01-11,EMP-23,PRJ-02,BAU,12,APPROVED,AP-2027-01-11-EMP-23,,existing commitment
+AL-00047,2027-01-11,EMP-12,PRJ-05,customer_support,12,APPROVED,AP-2027-01-11-EMP-12,,existing commitment
+AL-00387,2027-01-25,EMP-25,PRJ-04,customer_support,12,APPROVED,AP-2027-01-25-EMP-25,,existing commitment
+AL-00121,2027-01-11,EMP-31,PRJ-03,delivery,9,APPROVED,AP-2027-01-11-EMP-31,,existing commitment
+AL-00245,2027-01-18,EMP-26,PRJ-05,delivery,10,APPROVED,AP-2027-01-18-EMP-26,,existing commitment
+AL-01191,2027-03-08,EMP-10,PRJ-03,customer_support,12,APPROVED,AP-2027-03-08-EMP-10,,existing commitment
+AL-00523,2027-02-01,EMP-23,PRJ-02,customer_support,12,APPROVED,AP-2027-02-01-EMP-23,,existing commitment
+AL-00003,2027-01-11,EMP-01,PRJ-01,customer_support,14,APPROVED,AP-2027-01-11-EMP-01,,existing commitment
+AL-00861,2027-02-15,EMP-36,PRJ-01,delivery,10,APPROVED,AP-2027-02-15-EMP-36,,existing commitment
+AL-00377,2027-01-25,EMP-23,PRJ-02,delivery,10,APPROVED,AP-2027-01-25-EMP-23,,existing commitment
+AL-00806,2027-02-15,EMP-22,PRJ-01,BAU,13,APPROVED,AP-2027-02-15-EMP-22,,existing commitment
+AL-01185,2027-03-08,EMP-09,PRJ-02,delivery,13,APPROVED,AP-2027-03-08-EMP-09,,existing commitment
+AL-00791,2027-02-15,EMP-18,PRJ-04,customer_support,12,APPROVED,AP-2027-02-15-EMP-18,,existing commitment
+AL-00354,2027-01-25,EMP-17,PRJ-03,BAU,9,APPROVED,AP-2027-01-25-EMP-17,,existing commitment
+AL-00482,2027-02-01,EMP-13,PRJ-06,BAU,10,APPROVED,AP-2027-02-01-EMP-13,,existing commitment
+AL-00571,2027-02-01,EMP-35,PRJ-07,customer_support,8,APPROVED,AP-2027-02-01-EMP-35,,existing commitment
+AL-00346,2027-01-25,EMP-15,PRJ-01,BAU,12,APPROVED,AP-2027-01-25-EMP-15,,existing commitment
+AL-00269,2027-01-18,EMP-32,PRJ-04,delivery,9,APPROVED,AP-2027-01-18-EMP-32,,existing commitment
+AL-00327,2027-01-25,EMP-10,PRJ-03,customer_support,12,APPROVED,AP-2027-01-25-EMP-10,,existing commitment
+AL-00529,2027-02-01,EMP-25,PRJ-04,delivery,9,APPROVED,AP-2027-02-01-EMP-25,,existing commitment
+AL-00786,2027-02-15,EMP-17,PRJ-03,BAU,12,APPROVED,AP-2027-02-15-EMP-17,,existing commitment
+AL-01211,2027-03-08,EMP-15,PRJ-01,customer_support,14,APPROVED,AP-2027-03-08-EMP-15,,existing commitment
+AL-00923,2027-02-22,EMP-15,PRJ-01,customer_support,14,APPROVED,AP-2027-02-22-EMP-15,,existing commitment
+AL-00348,2027-01-25,EMP-15,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01216,2027-03-08,EMP-16,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00117,2027-01-11,EMP-30,PRJ-02,delivery,9,APPROVED,AP-2027-01-11-EMP-30,,existing commitment
+AL-01109,2027-03-01,EMP-26,PRJ-05,delivery,10,APPROVED,AP-2027-03-01-EMP-26,,existing commitment
+AL-00390,2027-01-25,EMP-26,PRJ-05,BAU,10,APPROVED,AP-2027-01-25-EMP-26,,existing commitment
+AL-00564,2027-02-01,EMP-33,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01170,2027-03-08,EMP-05,PRJ-05,BAU,8,APPROVED,AP-2027-03-08-EMP-05,,existing commitment
+AL-00986,2027-02-22,EMP-31,PRJ-03,BAU,12,APPROVED,AP-2027-02-22-EMP-31,,existing commitment
+AL-01257,2027-03-08,EMP-27,PRJ-06,delivery,13,APPROVED,AP-2027-03-08-EMP-27,,existing commitment
+AL-00395,2027-01-25,EMP-27,PRJ-06,customer_support,10,APPROVED,AP-2027-01-25-EMP-27,,existing commitment
+AL-01067,2027-03-01,EMP-15,PRJ-01,customer_support,12,APPROVED,AP-2027-03-01-EMP-15,,existing commitment
+AL-00944,2027-02-22,EMP-20,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00796,2027-02-15,EMP-19,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00636,2027-02-08,EMP-15,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00139,2027-01-11,EMP-35,PRJ-07,customer_support,14,APPROVED,AP-2027-01-11-EMP-35,,existing commitment
+AL-00032,2027-01-11,EMP-08,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00314,2027-01-25,EMP-07,PRJ-07,BAU,12,APPROVED,AP-2027-01-25-EMP-07,,existing commitment
+AL-00917,2027-02-22,EMP-14,PRJ-07,delivery,12,APPROVED,AP-2027-02-22-EMP-14,,existing commitment
+AL-00727,2027-02-15,EMP-02,PRJ-02,customer_support,12,APPROVED,AP-2027-02-15-EMP-02,,existing commitment
+AL-01061,2027-03-01,EMP-14,PRJ-07,delivery,12,APPROVED,AP-2027-03-01-EMP-14,,existing commitment
+AL-00368,2027-01-25,EMP-20,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00871,2027-02-22,EMP-02,PRJ-02,customer_support,12,APPROVED,AP-2027-02-22-EMP-02,,existing commitment
+AL-00554,2027-02-01,EMP-31,PRJ-03,BAU,12,APPROVED,AP-2027-02-01-EMP-31,,existing commitment
+AL-00108,2027-01-11,EMP-27,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00819,2027-02-15,EMP-25,PRJ-04,customer_support,12,APPROVED,AP-2027-02-15-EMP-25,,existing commitment
+AL-00194,2027-01-18,EMP-13,PRJ-06,BAU,9,APPROVED,AP-2027-01-18-EMP-13,,existing commitment
+AL-00520,2027-02-01,EMP-22,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00107,2027-01-11,EMP-27,PRJ-06,customer_support,12,APPROVED,AP-2027-01-11-EMP-27,,existing commitment
+AL-01174,2027-03-08,EMP-06,PRJ-06,BAU,8,APPROVED,AP-2027-03-08-EMP-06,,existing commitment
+AL-00915,2027-02-22,EMP-13,PRJ-06,customer_support,14,APPROVED,AP-2027-02-22-EMP-13,,existing commitment
+AL-01266,2027-03-08,EMP-29,PRJ-01,BAU,13,APPROVED,AP-2027-03-08-EMP-29,,existing commitment
+AL-00328,2027-01-25,EMP-10,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00704,2027-02-08,EMP-32,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00957,2027-02-22,EMP-24,PRJ-03,delivery,10,APPROVED,AP-2027-02-22-EMP-24,,existing commitment
+AL-00227,2027-01-18,EMP-21,PRJ-07,customer_support,12,APPROVED,AP-2027-01-18-EMP-21,,existing commitment
+AL-00249,2027-01-18,EMP-27,PRJ-06,delivery,13,APPROVED,AP-2027-01-18-EMP-27,,existing commitment
+AL-00807,2027-02-15,EMP-22,PRJ-01,customer_support,14,APPROVED,AP-2027-02-15-EMP-22,,existing commitment
+AL-00033,2027-01-11,EMP-09,PRJ-02,delivery,13,APPROVED,AP-2027-01-11-EMP-09,,existing commitment
+AL-00675,2027-02-08,EMP-25,PRJ-04,customer_support,8,APPROVED,AP-2027-02-08-EMP-25,,existing commitment
+AL-01169,2027-03-08,EMP-05,PRJ-05,delivery,8,APPROVED,AP-2027-03-08-EMP-05,,existing commitment
+AL-00884,2027-02-22,EMP-05,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00619,2027-02-08,EMP-11,PRJ-04,customer_support,12,APPROVED,AP-2027-02-08-EMP-11,,existing commitment
+AL-00083,2027-01-11,EMP-21,PRJ-07,customer_support,10,APPROVED,AP-2027-01-11-EMP-21,,existing commitment
+AL-00418,2027-01-25,EMP-33,PRJ-05,BAU,9,APPROVED,AP-2027-01-25-EMP-33,,existing commitment
+AL-00770,2027-02-15,EMP-13,PRJ-06,BAU,12,APPROVED,AP-2027-02-15-EMP-13,,existing commitment
+AL-01126,2027-03-01,EMP-30,PRJ-02,BAU,12,APPROVED,AP-2027-03-01-EMP-30,,existing commitment
+AL-01220,2027-03-08,EMP-17,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00982,2027-02-22,EMP-30,PRJ-02,BAU,12,APPROVED,AP-2027-02-22-EMP-30,,existing commitment
+AL-01171,2027-03-08,EMP-05,PRJ-05,customer_support,8,APPROVED,AP-2027-03-08-EMP-05,,existing commitment
+AL-01107,2027-03-01,EMP-25,PRJ-04,customer_support,12,APPROVED,AP-2027-03-01-EMP-25,,existing commitment
+AL-01294,2027-03-08,EMP-36,PRJ-01,BAU,10,APPROVED,AP-2027-03-08-EMP-36,,existing commitment
+AL-00688,2027-02-08,EMP-28,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00639,2027-02-08,EMP-16,PRJ-02,customer_support,10,APPROVED,AP-2027-02-08-EMP-16,,existing commitment
+AL-00087,2027-01-11,EMP-22,PRJ-01,customer_support,12,APPROVED,AP-2027-01-11-EMP-22,,existing commitment
+AL-00753,2027-02-15,EMP-09,PRJ-02,delivery,12,APPROVED,AP-2027-02-15-EMP-09,,existing commitment
+AL-00211,2027-01-18,EMP-17,PRJ-03,customer_support,12,APPROVED,AP-2027-01-18-EMP-17,,existing commitment
+AL-00236,2027-01-18,EMP-23,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00323,2027-01-25,EMP-09,PRJ-02,customer_support,12,APPROVED,AP-2027-01-25-EMP-09,,existing commitment
+AL-00899,2027-02-22,EMP-09,PRJ-02,customer_support,10,APPROVED,AP-2027-02-22-EMP-09,,existing commitment
+AL-01025,2027-03-01,EMP-05,PRJ-05,delivery,9,APPROVED,AP-2027-03-01-EMP-05,,existing commitment
+AL-00262,2027-01-18,EMP-30,PRJ-02,BAU,9,APPROVED,AP-2027-01-18-EMP-30,,existing commitment
+AL-00720,2027-02-08,EMP-36,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00141,2027-01-11,EMP-36,PRJ-01,delivery,13,APPROVED,AP-2027-01-11-EMP-36,,existing commitment
+AL-00152,2027-01-18,EMP-02,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01269,2027-03-08,EMP-30,PRJ-02,delivery,13,APPROVED,AP-2027-03-08-EMP-30,,existing commitment
+AL-00147,2027-01-18,EMP-01,PRJ-01,customer_support,12,APPROVED,AP-2027-01-18-EMP-01,,existing commitment
+AL-00940,2027-02-22,EMP-19,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00881,2027-02-22,EMP-05,PRJ-05,delivery,10,APPROVED,AP-2027-02-22-EMP-05,,existing commitment
+AL-01076,2027-03-01,EMP-17,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00902,2027-02-22,EMP-10,PRJ-03,BAU,10,APPROVED,AP-2027-02-22-EMP-10,,existing commitment
+AL-00669,2027-02-08,EMP-24,PRJ-03,delivery,12,APPROVED,AP-2027-02-08-EMP-24,,existing commitment
+AL-00867,2027-02-22,EMP-01,PRJ-01,customer_support,8,APPROVED,AP-2027-02-22-EMP-01,,existing commitment
+AL-00268,2027-01-18,EMP-31,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00433,2027-02-01,EMP-01,PRJ-01,delivery,9,APPROVED,AP-2027-02-01-EMP-01,,existing commitment
+AL-00425,2027-01-25,EMP-35,PRJ-07,delivery,9,APPROVED,AP-2027-01-25-EMP-35,,existing commitment
+AL-01242,2027-03-08,EMP-23,PRJ-02,BAU,13,APPROVED,AP-2027-03-08-EMP-23,,existing commitment
+AL-00283,2027-01-18,EMP-35,PRJ-07,customer_support,10,APPROVED,AP-2027-01-18-EMP-35,,existing commitment
+AL-00678,2027-02-08,EMP-26,PRJ-05,BAU,10,APPROVED,AP-2027-02-08-EMP-26,,existing commitment
+AL-00145,2027-01-18,EMP-01,PRJ-01,delivery,12,APPROVED,AP-2027-01-18-EMP-01,,existing commitment
+AL-01226,2027-03-08,EMP-19,PRJ-05,BAU,13,APPROVED,AP-2027-03-08-EMP-19,,existing commitment
+AL-00310,2027-01-25,EMP-06,PRJ-06,BAU,10,APPROVED,AP-2027-01-25-EMP-06,,existing commitment
+AL-00462,2027-02-01,EMP-08,PRJ-01,BAU,10,APPROVED,AP-2027-02-01-EMP-08,,existing commitment
+AL-01054,2027-03-01,EMP-12,PRJ-05,BAU,13,APPROVED,AP-2027-03-01-EMP-12,,existing commitment
+AL-01259,2027-03-08,EMP-27,PRJ-06,customer_support,14,APPROVED,AP-2027-03-08-EMP-27,,existing commitment
+AL-00574,2027-02-01,EMP-36,PRJ-01,BAU,9,APPROVED,AP-2027-02-01-EMP-36,,existing commitment
+AL-00029,2027-01-11,EMP-08,PRJ-01,delivery,13,APPROVED,AP-2027-01-11-EMP-08,,existing commitment
+AL-00815,2027-02-15,EMP-24,PRJ-03,customer_support,10,APPROVED,AP-2027-02-15-EMP-24,,existing commitment
+AL-01010,2027-03-01,EMP-01,PRJ-01,BAU,13,APPROVED,AP-2027-03-01-EMP-01,,existing commitment
+AL-00898,2027-02-22,EMP-09,PRJ-02,BAU,9,APPROVED,AP-2027-02-22-EMP-09,,existing commitment
+AL-00439,2027-02-01,EMP-02,PRJ-02,customer_support,14,APPROVED,AP-2027-02-01-EMP-02,,existing commitment
+AL-01114,2027-03-01,EMP-27,PRJ-06,BAU,12,APPROVED,AP-2027-03-01-EMP-27,,existing commitment
+AL-00676,2027-02-08,EMP-25,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00092,2027-01-11,EMP-23,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00853,2027-02-15,EMP-34,PRJ-06,delivery,10,APPROVED,AP-2027-02-15-EMP-34,,existing commitment
+AL-00758,2027-02-15,EMP-10,PRJ-03,BAU,12,APPROVED,AP-2027-02-15-EMP-10,,existing commitment
+AL-00159,2027-01-18,EMP-04,PRJ-04,customer_support,12,APPROVED,AP-2027-01-18-EMP-04,,existing commitment
+AL-01209,2027-03-08,EMP-15,PRJ-01,delivery,13,APPROVED,AP-2027-03-08-EMP-15,,existing commitment
+AL-00040,2027-01-11,EMP-10,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00410,2027-01-25,EMP-31,PRJ-03,BAU,10,APPROVED,AP-2027-01-25-EMP-31,,existing commitment
+AL-00119,2027-01-11,EMP-30,PRJ-02,customer_support,10,APPROVED,AP-2027-01-11-EMP-30,,existing commitment
+AL-00900,2027-02-22,EMP-09,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00606,2027-02-08,EMP-08,PRJ-01,BAU,10,APPROVED,AP-2027-02-08-EMP-08,,existing commitment
+AL-00436,2027-02-01,EMP-01,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00370,2027-01-25,EMP-21,PRJ-07,BAU,12,APPROVED,AP-2027-01-25-EMP-21,,existing commitment
+AL-00138,2027-01-11,EMP-35,PRJ-07,BAU,13,APPROVED,AP-2027-01-11-EMP-35,,existing commitment
+AL-01283,2027-03-08,EMP-33,PRJ-05,customer_support,14,APPROVED,AP-2027-03-08-EMP-33,,existing commitment
+AL-00416,2027-01-25,EMP-32,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00208,2027-01-18,EMP-16,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00438,2027-02-01,EMP-02,PRJ-02,BAU,13,APPROVED,AP-2027-02-01-EMP-02,,existing commitment
+AL-00631,2027-02-08,EMP-14,PRJ-07,customer_support,12,APPROVED,AP-2027-02-08-EMP-14,,existing commitment
+AL-01228,2027-03-08,EMP-19,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00922,2027-02-22,EMP-15,PRJ-01,BAU,13,APPROVED,AP-2027-02-22-EMP-15,,existing commitment
+AL-01111,2027-03-01,EMP-26,PRJ-05,customer_support,12,APPROVED,AP-2027-03-01-EMP-26,,existing commitment
+AL-00101,2027-01-11,EMP-26,PRJ-05,delivery,10,APPROVED,AP-2027-01-11-EMP-26,,existing commitment
+AL-00146,2027-01-18,EMP-01,PRJ-01,BAU,12,APPROVED,AP-2027-01-18-EMP-01,,existing commitment
+AL-00877,2027-02-22,EMP-04,PRJ-04,delivery,13,APPROVED,AP-2027-02-22-EMP-04,,existing commitment
+AL-01210,2027-03-08,EMP-15,PRJ-01,BAU,13,APPROVED,AP-2027-03-08-EMP-15,,existing commitment
+AL-00027,2027-01-11,EMP-07,PRJ-07,customer_support,10,APPROVED,AP-2027-01-11-EMP-07,,existing commitment
+AL-00503,2027-02-01,EMP-18,PRJ-04,customer_support,10,APPROVED,AP-2027-02-01-EMP-18,,existing commitment
+AL-00385,2027-01-25,EMP-25,PRJ-04,delivery,10,APPROVED,AP-2027-01-25-EMP-25,,existing commitment
+AL-00341,2027-01-25,EMP-14,PRJ-07,delivery,10,APPROVED,AP-2027-01-25-EMP-14,,existing commitment
+AL-00375,2027-01-25,EMP-22,PRJ-01,customer_support,12,APPROVED,AP-2027-01-25-EMP-22,,existing commitment
+AL-01122,2027-03-01,EMP-29,PRJ-01,BAU,8,APPROVED,AP-2027-03-01-EMP-29,,existing commitment
+AL-01153,2027-03-08,EMP-01,PRJ-01,delivery,8,APPROVED,AP-2027-03-08-EMP-01,,existing commitment
+AL-00309,2027-01-25,EMP-06,PRJ-06,delivery,10,APPROVED,AP-2027-01-25-EMP-06,,existing commitment
+AL-00800,2027-02-15,EMP-20,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00681,2027-02-08,EMP-27,PRJ-06,delivery,12,APPROVED,AP-2027-02-08-EMP-27,,existing commitment
+AL-01208,2027-03-08,EMP-14,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00804,2027-02-15,EMP-21,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00207,2027-01-18,EMP-16,PRJ-02,customer_support,12,APPROVED,AP-2027-01-18-EMP-16,,existing commitment
+AL-00167,2027-01-18,EMP-06,PRJ-06,customer_support,10,APPROVED,AP-2027-01-18-EMP-06,,existing commitment
+AL-00181,2027-01-18,EMP-10,PRJ-03,delivery,9,APPROVED,AP-2027-01-18-EMP-10,,existing commitment
+AL-01168,2027-03-08,EMP-04,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00846,2027-02-15,EMP-32,PRJ-04,BAU,13,APPROVED,AP-2027-02-15-EMP-32,,existing commitment
+AL-00356,2027-01-25,EMP-17,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00198,2027-01-18,EMP-14,PRJ-07,BAU,10,APPROVED,AP-2027-01-18-EMP-14,,existing commitment
+AL-00259,2027-01-18,EMP-29,PRJ-01,customer_support,12,APPROVED,AP-2027-01-18-EMP-29,,existing commitment
+AL-00746,2027-02-15,EMP-07,PRJ-07,BAU,8,APPROVED,AP-2027-02-15-EMP-07,,existing commitment
+AL-00792,2027-02-15,EMP-18,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-01252,2027-03-08,EMP-25,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01159,2027-03-08,EMP-02,PRJ-02,customer_support,8,APPROVED,AP-2027-03-08-EMP-02,,existing commitment
+AL-00465,2027-02-01,EMP-09,PRJ-02,delivery,10,APPROVED,AP-2027-02-01-EMP-09,,existing commitment
+AL-01265,2027-03-08,EMP-29,PRJ-01,delivery,13,APPROVED,AP-2027-03-08-EMP-29,,existing commitment
+AL-00384,2027-01-25,EMP-24,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00886,2027-02-22,EMP-06,PRJ-06,BAU,13,APPROVED,AP-2027-02-22-EMP-06,,existing commitment
+AL-00808,2027-02-15,EMP-22,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00615,2027-02-08,EMP-10,PRJ-03,customer_support,12,APPROVED,AP-2027-02-08-EMP-10,,existing commitment
+AL-00242,2027-01-18,EMP-25,PRJ-04,BAU,8,APPROVED,AP-2027-01-18-EMP-25,,existing commitment
+AL-00069,2027-01-11,EMP-18,PRJ-04,delivery,10,APPROVED,AP-2027-01-11-EMP-18,,existing commitment
+AL-00521,2027-02-01,EMP-23,PRJ-02,delivery,12,APPROVED,AP-2027-02-01-EMP-23,,existing commitment
+AL-00115,2027-01-11,EMP-29,PRJ-01,customer_support,14,APPROVED,AP-2027-01-11-EMP-29,,existing commitment
+AL-00983,2027-02-22,EMP-30,PRJ-02,customer_support,12,APPROVED,AP-2027-02-22-EMP-30,,existing commitment
+AL-00626,2027-02-08,EMP-13,PRJ-06,BAU,12,APPROVED,AP-2027-02-08-EMP-13,,existing commitment
+AL-00452,2027-02-01,EMP-05,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00486,2027-02-01,EMP-14,PRJ-07,BAU,13,APPROVED,AP-2027-02-01-EMP-14,,existing commitment
+AL-01182,2027-03-08,EMP-08,PRJ-01,BAU,8,APPROVED,AP-2027-03-08-EMP-08,,existing commitment
+AL-01277,2027-03-08,EMP-32,PRJ-04,delivery,13,APPROVED,AP-2027-03-08-EMP-32,,existing commitment
+AL-01071,2027-03-01,EMP-16,PRJ-02,customer_support,12,APPROVED,AP-2027-03-01-EMP-16,,existing commitment
+AL-00761,2027-02-15,EMP-11,PRJ-04,delivery,9,APPROVED,AP-2027-02-15-EMP-11,,existing commitment
+AL-00611,2027-02-08,EMP-09,PRJ-02,customer_support,12,APPROVED,AP-2027-02-08-EMP-09,,existing commitment
+AL-00078,2027-01-11,EMP-20,PRJ-06,BAU,12,APPROVED,AP-2027-01-11-EMP-20,,existing commitment
+AL-00684,2027-02-08,EMP-27,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00937,2027-02-22,EMP-19,PRJ-05,delivery,10,APPROVED,AP-2027-02-22-EMP-19,,existing commitment
+AL-00698,2027-02-08,EMP-31,PRJ-03,BAU,10,APPROVED,AP-2027-02-08-EMP-31,,existing commitment
+AL-00823,2027-02-15,EMP-26,PRJ-05,customer_support,12,APPROVED,AP-2027-02-15-EMP-26,,existing commitment
+AL-00558,2027-02-01,EMP-32,PRJ-04,BAU,12,APPROVED,AP-2027-02-01-EMP-32,,existing commitment
+AL-00352,2027-01-25,EMP-16,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00691,2027-02-08,EMP-29,PRJ-01,customer_support,14,APPROVED,AP-2027-02-08-EMP-29,,existing commitment
+AL-01223,2027-03-08,EMP-18,PRJ-04,customer_support,12,APPROVED,AP-2027-03-08-EMP-18,,existing commitment
+AL-00757,2027-02-15,EMP-10,PRJ-03,delivery,12,APPROVED,AP-2027-02-15-EMP-10,,existing commitment
+AL-01144,2027-03-01,EMP-34,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00888,2027-02-22,EMP-06,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-01256,2027-03-08,EMP-26,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00082,2027-01-11,EMP-21,PRJ-07,BAU,9,APPROVED,AP-2027-01-11-EMP-21,,existing commitment
+AL-01247,2027-03-08,EMP-24,PRJ-03,customer_support,12,APPROVED,AP-2027-03-08-EMP-24,,existing commitment
+AL-00220,2027-01-18,EMP-19,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00781,2027-02-15,EMP-16,PRJ-02,delivery,10,APPROVED,AP-2027-02-15-EMP-16,,existing commitment
+AL-00454,2027-02-01,EMP-06,PRJ-06,BAU,10,APPROVED,AP-2027-02-01-EMP-06,,existing commitment
+AL-01177,2027-03-08,EMP-07,PRJ-07,delivery,8,APPROVED,AP-2027-03-08-EMP-07,,existing commitment
+AL-00187,2027-01-18,EMP-11,PRJ-04,customer_support,14,APPROVED,AP-2027-01-18-EMP-11,,existing commitment
+AL-00887,2027-02-22,EMP-06,PRJ-06,customer_support,14,APPROVED,AP-2027-02-22-EMP-06,,existing commitment
+AL-01276,2027-03-08,EMP-31,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00412,2027-01-25,EMP-31,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00165,2027-01-18,EMP-06,PRJ-06,delivery,9,APPROVED,AP-2027-01-18-EMP-06,,existing commitment
+AL-00318,2027-01-25,EMP-08,PRJ-01,BAU,12,APPROVED,AP-2027-01-25-EMP-08,,existing commitment
+AL-00217,2027-01-18,EMP-19,PRJ-05,delivery,13,APPROVED,AP-2027-01-18-EMP-19,,existing commitment
+AL-01002,2027-02-22,EMP-35,PRJ-07,BAU,12,APPROVED,AP-2027-02-22-EMP-35,,existing commitment
+AL-00015,2027-01-11,EMP-04,PRJ-04,customer_support,10,APPROVED,AP-2027-01-11-EMP-04,,existing commitment
+AL-00351,2027-01-25,EMP-16,PRJ-02,customer_support,10,APPROVED,AP-2027-01-25-EMP-16,,existing commitment
+AL-00965,2027-02-22,EMP-26,PRJ-05,delivery,9,APPROVED,AP-2027-02-22-EMP-26,,existing commitment
+AL-00551,2027-02-01,EMP-30,PRJ-02,customer_support,10,APPROVED,AP-2027-02-01-EMP-30,,existing commitment
+AL-00783,2027-02-15,EMP-16,PRJ-02,customer_support,12,APPROVED,AP-2027-02-15-EMP-16,,existing commitment
+AL-00891,2027-02-22,EMP-07,PRJ-07,customer_support,12,APPROVED,AP-2027-02-22-EMP-07,,existing commitment
+AL-00153,2027-01-18,EMP-03,PRJ-03,delivery,13,APPROVED,AP-2027-01-18-EMP-03,,existing commitment
+AL-00745,2027-02-15,EMP-07,PRJ-07,delivery,8,APPROVED,AP-2027-02-15-EMP-07,,existing commitment
+AL-00188,2027-01-18,EMP-11,PRJ-02,discovery,4,REJECTED,,,resource request pending or declined
+AL-00016,2027-01-11,EMP-04,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00120,2027-01-11,EMP-30,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00522,2027-02-01,EMP-23,PRJ-02,BAU,12,APPROVED,AP-2027-02-01-EMP-23,,existing commitment
+AL-00270,2027-01-18,EMP-32,PRJ-04,BAU,9,APPROVED,AP-2027-01-18-EMP-32,,existing commitment
+AL-00828,2027-02-15,EMP-27,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00710,2027-02-08,EMP-34,PRJ-06,BAU,10,APPROVED,AP-2027-02-08-EMP-34,,existing commitment
+AL-01015,2027-03-01,EMP-02,PRJ-02,customer_support,12,APPROVED,AP-2027-03-01-EMP-02,,existing commitment
+AL-00253,2027-01-18,EMP-28,PRJ-07,delivery,10,APPROVED,AP-2027-01-18-EMP-28,,existing commitment
+AL-00989,2027-02-22,EMP-32,PRJ-04,delivery,13,APPROVED,AP-2027-02-22-EMP-32,,existing commitment
+AL-00759,2027-02-15,EMP-10,PRJ-03,customer_support,12,APPROVED,AP-2027-02-15-EMP-10,,existing commitment
+AL-01172,2027-03-08,EMP-05,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00581,2027-02-08,EMP-02,PRJ-02,delivery,10,APPROVED,AP-2027-02-08-EMP-02,,existing commitment
+AL-00396,2027-01-25,EMP-27,PRJ-02,discovery,4,DRAFT,,,resource request pending or declined
+AL-00541,2027-02-01,EMP-28,PRJ-07,delivery,12,APPROVED,AP-2027-02-01-EMP-28,,existing commitment

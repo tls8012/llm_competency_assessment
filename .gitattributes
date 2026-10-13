@@ -1,0 +1,2 @@
+# Keep published UTF-8 text bytes reproducible across operating systems.
+* text=auto eol=lf
