@@ -1,0 +1,776 @@
+{
+  "source_normalized_sha256": "b3d62b08247d3b69c915a7adc1905716b0c2dc7f62c5964baa91d96cbde71181",
+  "source_version": "v1.0.0 / cc3f50cf9a9e288b237d558d76cac2d3cbc4eb4c",
+  "method": "Parse the original DOC tables and event text; enumerate 16 optional subsets per state; parse and verify the actual final employee allocation and budget table.",
+  "baseline_usd": 20000,
+  "approved_initial_usd": 28000,
+  "unsigned_forecast_usd": 31000,
+  "states": {
+    "initial": {
+      "ceiling_usd": 28000,
+      "capacity_hours": {
+        "BE": 28,
+        "DATA": 28,
+        "SRE": 28,
+        "QA": 28
+      },
+      "feasible_count": 10,
+      "optimal": [
+        {
+          "packages": "ABEF",
+          "cash_usd": 27800,
+          "headroom_usd": 200,
+          "value_points": 16,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 0,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": true
+        }
+      ],
+      "all_combinations": [
+        {
+          "packages": "AB",
+          "cash_usd": 24500,
+          "headroom_usd": 3500,
+          "value_points": 0,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 0,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABF",
+          "cash_usd": 26300,
+          "headroom_usd": 1700,
+          "value_points": 9,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 0,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABE",
+          "cash_usd": 26000,
+          "headroom_usd": 2000,
+          "value_points": 7,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 0,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABEF",
+          "cash_usd": 27800,
+          "headroom_usd": 200,
+          "value_points": 16,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 0,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABD",
+          "cash_usd": 25500,
+          "headroom_usd": 2500,
+          "value_points": 6,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 12,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABDF",
+          "cash_usd": 27300,
+          "headroom_usd": 700,
+          "value_points": 15,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 12,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABDE",
+          "cash_usd": 27000,
+          "headroom_usd": 1000,
+          "value_points": 13,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 12,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABDEF",
+          "cash_usd": 28800,
+          "headroom_usd": -800,
+          "value_points": 22,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 12,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABC",
+          "cash_usd": 26500,
+          "headroom_usd": 1500,
+          "value_points": 8,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 16,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABCF",
+          "cash_usd": 28300,
+          "headroom_usd": -300,
+          "value_points": 17,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 16,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCE",
+          "cash_usd": 28000,
+          "headroom_usd": 0,
+          "value_points": 15,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 16,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABCEF",
+          "cash_usd": 29800,
+          "headroom_usd": -1800,
+          "value_points": 24,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 16,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCD",
+          "cash_usd": 27500,
+          "headroom_usd": 500,
+          "value_points": 14,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 28,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABCDF",
+          "cash_usd": 29300,
+          "headroom_usd": -1300,
+          "value_points": 23,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 28,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCDE",
+          "cash_usd": 29000,
+          "headroom_usd": -1000,
+          "value_points": 21,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 28,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCDEF",
+          "cash_usd": 30800,
+          "headroom_usd": -2800,
+          "value_points": 30,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 28,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": false
+        }
+      ]
+    },
+    "budget_change": {
+      "ceiling_usd": 27000,
+      "capacity_hours": {
+        "BE": 28,
+        "DATA": 28,
+        "SRE": 28,
+        "QA": 28
+      },
+      "feasible_count": 6,
+      "optimal": [
+        {
+          "packages": "ABDE",
+          "cash_usd": 27000,
+          "headroom_usd": 0,
+          "value_points": 13,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 12,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": true
+        }
+      ],
+      "all_combinations": [
+        {
+          "packages": "AB",
+          "cash_usd": 24500,
+          "headroom_usd": 2500,
+          "value_points": 0,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 0,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABF",
+          "cash_usd": 26300,
+          "headroom_usd": 700,
+          "value_points": 9,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 0,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABE",
+          "cash_usd": 26000,
+          "headroom_usd": 1000,
+          "value_points": 7,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 0,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABEF",
+          "cash_usd": 27800,
+          "headroom_usd": -800,
+          "value_points": 16,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 0,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABD",
+          "cash_usd": 25500,
+          "headroom_usd": 1500,
+          "value_points": 6,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 12,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABDF",
+          "cash_usd": 27300,
+          "headroom_usd": -300,
+          "value_points": 15,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 12,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABDE",
+          "cash_usd": 27000,
+          "headroom_usd": 0,
+          "value_points": 13,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 12,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABDEF",
+          "cash_usd": 28800,
+          "headroom_usd": -1800,
+          "value_points": 22,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 12,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABC",
+          "cash_usd": 26500,
+          "headroom_usd": 500,
+          "value_points": 8,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 16,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABCF",
+          "cash_usd": 28300,
+          "headroom_usd": -1300,
+          "value_points": 17,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 16,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCE",
+          "cash_usd": 28000,
+          "headroom_usd": -1000,
+          "value_points": 15,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 16,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCEF",
+          "cash_usd": 29800,
+          "headroom_usd": -2800,
+          "value_points": 24,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 16,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCD",
+          "cash_usd": 27500,
+          "headroom_usd": -500,
+          "value_points": 14,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 28,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCDF",
+          "cash_usd": 29300,
+          "headroom_usd": -2300,
+          "value_points": 23,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 28,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCDE",
+          "cash_usd": 29000,
+          "headroom_usd": -2000,
+          "value_points": 21,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 28,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCDEF",
+          "cash_usd": 30800,
+          "headroom_usd": -3800,
+          "value_points": 30,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 28,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": false
+        }
+      ]
+    },
+    "budget_and_leave": {
+      "ceiling_usd": 27000,
+      "capacity_hours": {
+        "BE": 28,
+        "DATA": 28,
+        "SRE": 24,
+        "QA": 28
+      },
+      "feasible_count": 4,
+      "optimal": [
+        {
+          "packages": "ABF",
+          "cash_usd": 26300,
+          "headroom_usd": 700,
+          "value_points": 9,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 0,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": true
+        }
+      ],
+      "all_combinations": [
+        {
+          "packages": "AB",
+          "cash_usd": 24500,
+          "headroom_usd": 2500,
+          "value_points": 0,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 0,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABF",
+          "cash_usd": 26300,
+          "headroom_usd": 700,
+          "value_points": 9,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 0,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABE",
+          "cash_usd": 26000,
+          "headroom_usd": 1000,
+          "value_points": 7,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 0,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABEF",
+          "cash_usd": 27800,
+          "headroom_usd": -800,
+          "value_points": 16,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 0,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABD",
+          "cash_usd": 25500,
+          "headroom_usd": 1500,
+          "value_points": 6,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 12,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABDF",
+          "cash_usd": 27300,
+          "headroom_usd": -300,
+          "value_points": 15,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 12,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABDE",
+          "cash_usd": 27000,
+          "headroom_usd": 0,
+          "value_points": 13,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 12,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABDEF",
+          "cash_usd": 28800,
+          "headroom_usd": -1800,
+          "value_points": 22,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 12,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABC",
+          "cash_usd": 26500,
+          "headroom_usd": 500,
+          "value_points": 8,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 16,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": true
+        },
+        {
+          "packages": "ABCF",
+          "cash_usd": 28300,
+          "headroom_usd": -1300,
+          "value_points": 17,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 16,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCE",
+          "cash_usd": 28000,
+          "headroom_usd": -1000,
+          "value_points": 15,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 16,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCEF",
+          "cash_usd": 29800,
+          "headroom_usd": -2800,
+          "value_points": 24,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 16,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCD",
+          "cash_usd": 27500,
+          "headroom_usd": -500,
+          "value_points": 14,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 28,
+            "SRE": 16,
+            "QA": 16
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCDF",
+          "cash_usd": 29300,
+          "headroom_usd": -2300,
+          "value_points": 23,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 28,
+            "SRE": 16,
+            "QA": 24
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCDE",
+          "cash_usd": 29000,
+          "headroom_usd": -2000,
+          "value_points": 21,
+          "used_hours": {
+            "BE": 16,
+            "DATA": 28,
+            "SRE": 28,
+            "QA": 16
+          },
+          "feasible": false
+        },
+        {
+          "packages": "ABCDEF",
+          "cash_usd": 30800,
+          "headroom_usd": -3800,
+          "value_points": 30,
+          "used_hours": {
+            "BE": 28,
+            "DATA": 28,
+            "SRE": 28,
+            "QA": 24
+          },
+          "feasible": false
+        }
+      ]
+    }
+  },
+  "final_employee_allocation": {
+    "EMP-01": {
+      "skill": "BE",
+      "booked_h": 24,
+      "leave_h": 0,
+      "assigned_h": 16,
+      "remaining_h": 0
+    },
+    "EMP-02": {
+      "skill": "DATA",
+      "booked_h": 24,
+      "leave_h": 0,
+      "assigned_h": 0,
+      "remaining_h": 16
+    },
+    "EMP-03": {
+      "skill": "SRE",
+      "booked_h": 24,
+      "leave_h": 0,
+      "assigned_h": 16,
+      "remaining_h": 0
+    },
+    "EMP-04": {
+      "skill": "QA",
+      "booked_h": 24,
+      "leave_h": 0,
+      "assigned_h": 16,
+      "remaining_h": 0
+    },
+    "EMP-05": {
+      "skill": "BE",
+      "booked_h": 24,
+      "leave_h": 4,
+      "assigned_h": 12,
+      "remaining_h": 0
+    },
+    "EMP-06": {
+      "skill": "DATA",
+      "booked_h": 24,
+      "leave_h": 4,
+      "assigned_h": 0,
+      "remaining_h": 12
+    },
+    "EMP-07": {
+      "skill": "SRE",
+      "booked_h": 24,
+      "leave_h": 8,
+      "assigned_h": 0,
+      "remaining_h": 8
+    },
+    "EMP-08": {
+      "skill": "QA",
+      "booked_h": 24,
+      "leave_h": 4,
+      "assigned_h": 8,
+      "remaining_h": 4
+    }
+  },
+  "all_final_employee_and_package_checks_passed": true,
+  "final_budget_table_checks_passed": true,
+  "scope": "Post-exam arithmetic audit, not evidence of calculations performed by the examinee during the exam. No rubric scores computed by this script."
+}

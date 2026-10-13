@@ -1,0 +1,579 @@
+{
+  "package_version": "2.0.0",
+  "as_of": "2027-03-08T09:00:00+09:00",
+  "seed": 80122227,
+  "documents": {
+    "DOC-ORG-01": {
+      "path": "company/organization/DOC-ORG-01.md",
+      "title": "회사·거점·기준 시각",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-ORG-02": {
+      "path": "company/organization/DOC-ORG-02.md",
+      "title": "권한·승인 담당표",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-ORG-03": {
+      "path": "company/organization/DOC-ORG-03.md",
+      "title": "고객·이해관계자 연락 구조",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-CON-01": {
+      "path": "company/contracts/DOC-CON-01.md",
+      "title": "Atlas 서비스 주문서 부속서 — 납품 및 수용 조건",
+      "status": "승인됨",
+      "owner": "Legal & Client Executive",
+      "attachments": [],
+      "projects": "PRJ-01"
+    },
+    "DOC-CON-02": {
+      "path": "company/contracts/DOC-CON-02.md",
+      "title": "Vector·Relay 서비스 주문서 부속서 — 선택 투자와 기존 서비스",
+      "status": "승인됨",
+      "owner": "Legal & Client Executive",
+      "attachments": [],
+      "projects": "PRJ-02, PRJ-07"
+    },
+    "DOC-CON-03": {
+      "path": "company/contracts/DOC-CON-03.md",
+      "title": "Pulse 관리형 클라우드 서비스 주문서 부속서 — 장애 대응 및 복구",
+      "status": "승인됨",
+      "owner": "Legal & Client Executive",
+      "attachments": [],
+      "projects": "PRJ-03"
+    },
+    "DOC-CON-04": {
+      "path": "company/contracts/DOC-CON-04.md",
+      "title": "Prism 데이터 플랫폼 서비스 주문서 부속서 — 품질 개선 작업",
+      "status": "승인됨",
+      "owner": "Legal & Client Executive",
+      "attachments": [],
+      "projects": "PRJ-04"
+    },
+    "DOC-CON-05": {
+      "path": "company/contracts/DOC-CON-05.md",
+      "title": "Ledger 결제 승인 서비스 주문서 부속서 — 장애 처리와 데이터 보호",
+      "status": "승인됨",
+      "owner": "Legal & Client Executive",
+      "attachments": [],
+      "projects": "PRJ-05"
+    },
+    "DOC-CON-06": {
+      "path": "company/contracts/DOC-CON-06.md",
+      "title": "Harbor 클라우드 운영 서비스 주문서 부속서 — 기본 운영과 선택 자동화",
+      "status": "승인됨",
+      "owner": "Legal & Client Executive",
+      "attachments": [],
+      "projects": "PRJ-06"
+    },
+    "DOC-PRJ-01": {
+      "path": "company/projects/DOC-PRJ-01.md",
+      "title": "프로젝트 포트폴리오 현황표",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-PRJ-02": {
+      "path": "company/projects/DOC-PRJ-02.md",
+      "title": "Atlas 남은 작업 네트워크",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [
+        "company/projects/exports/work_items.csv"
+      ],
+      "projects": "PRJ-01"
+    },
+    "DOC-PRJ-03": {
+      "path": "company/projects/DOC-PRJ-03.md",
+      "title": "Atlas 납기 단축·협상 옵션 검토서",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [],
+      "projects": "PRJ-01"
+    },
+    "DOC-PRJ-04": {
+      "path": "company/projects/DOC-PRJ-04.md",
+      "title": "주간 작업 패키지",
+      "status": "승인됨",
+      "owner": "Portfolio Office",
+      "attachments": [
+        "company/projects/exports/investment_register.csv",
+        "company/projects/exports/resource_requirements.csv",
+        "company/projects/exports/package_cost_estimates.csv"
+      ],
+      "projects": "PRJ-01~PRJ-07"
+    },
+    "DOC-PRJ-05": {
+      "path": "company/projects/DOC-PRJ-05.md",
+      "title": "프로젝트 리스크·의존성 등록부",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-PRJ-06": {
+      "path": "company/projects/DOC-PRJ-06.md",
+      "title": "이전 주간 상태 보고 — 2027-03-04 스냅샷",
+      "status": "과거 스냅샷",
+      "owner": "Operations Office",
+      "attachments": [],
+      "projects": "PRJ-01, PRJ-03, PRJ-05"
+    },
+    "DOC-HR-01": {
+      "path": "company/people/DOC-HR-01.md",
+      "title": "직원·스킬·거점",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [
+        "company/people/exports/employee_directory.csv",
+        "company/people/exports/skills_register.csv"
+      ],
+      "projects": "전사"
+    },
+    "DOC-HR-02": {
+      "path": "company/people/DOC-HR-02.md",
+      "title": "주간 기존 투입·휴가",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [
+        "company/people/exports/resource_allocations.csv",
+        "company/people/exports/leave_requests.csv"
+      ],
+      "projects": "전사"
+    },
+    "DOC-HR-03": {
+      "path": "company/people/DOC-HR-03.md",
+      "title": "급여 원가 정의",
+      "status": "승인됨",
+      "owner": "Finance & HR",
+      "attachments": [
+        "company/people/exports/standard_cost_rates.csv"
+      ],
+      "projects": "전사"
+    },
+    "DOC-HR-04": {
+      "path": "company/people/DOC-HR-04.md",
+      "title": "투자 풀·근무 제약",
+      "status": "승인됨",
+      "owner": "HR & COO",
+      "attachments": [
+        "company/people/exports/pool_authorizations.csv"
+      ],
+      "projects": "전사"
+    },
+    "DOC-HR-05": {
+      "path": "company/people/DOC-HR-05.md",
+      "title": "인력 배정 변경 요청·확인 양식",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-FIN-01": {
+      "path": "company/finance/DOC-FIN-01.md",
+      "title": "주간 기준 비용",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [
+        "company/finance/exports/operating_journal.csv"
+      ],
+      "projects": "전사"
+    },
+    "DOC-FIN-02": {
+      "path": "company/finance/DOC-FIN-02.md",
+      "title": "승인 주간 예산",
+      "status": "승인됨",
+      "owner": "CFO",
+      "attachments": [
+        "company/finance/exports/budget_workflow.csv"
+      ],
+      "projects": "전사"
+    },
+    "DOC-FIN-03": {
+      "path": "company/finance/DOC-FIN-03.md",
+      "title": "증액 전망 초안",
+      "status": "미승인 초안",
+      "owner": "Finance Office",
+      "attachments": [
+        "company/finance/exports/budget_workflow.csv"
+      ],
+      "projects": "전사"
+    },
+    "DOC-FIN-04": {
+      "path": "company/finance/DOC-FIN-04.md",
+      "title": "월초 실적·예측 구분",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [
+        "company/finance/exports/operating_journal.csv"
+      ],
+      "projects": "전사"
+    },
+    "DOC-FIN-05": {
+      "path": "company/finance/DOC-FIN-05.md",
+      "title": "관리회계 환산·반올림 기준",
+      "status": "승인됨",
+      "owner": "Operations Office",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-FIN-06": {
+      "path": "company/finance/DOC-FIN-06.md",
+      "title": "예산 변경 결재 규칙·요청 양식",
+      "status": "승인됨",
+      "owner": "CFO & COO",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-INF-01": {
+      "path": "company/operations/DOC-INF-01.md",
+      "title": "Pulse 서비스 의존성·데이터 경로 지도",
+      "status": "승인됨",
+      "owner": "SRE",
+      "attachments": [],
+      "projects": "PRJ-03"
+    },
+    "DOC-INF-02": {
+      "path": "company/operations/DOC-INF-02.md",
+      "title": "Pulse 관측 타임라인",
+      "status": "관측",
+      "owner": "Monitoring",
+      "attachments": [
+        "company/operations/logs/collector-20270308-part1.jsonl",
+        "company/operations/logs/collector-20270308-part2.jsonl",
+        "company/operations/logs/collector-20270308-part3.jsonl"
+      ],
+      "projects": "PRJ-03"
+    },
+    "DOC-INF-03": {
+      "path": "company/operations/DOC-INF-03.md",
+      "title": "Pulse 복구 운영 Runbook",
+      "status": "승인됨",
+      "owner": "CTO & SRE",
+      "attachments": [],
+      "projects": "PRJ-03"
+    },
+    "DOC-INF-04": {
+      "path": "company/operations/DOC-INF-04.md",
+      "title": "Pulse 복제·보존 상태",
+      "status": "관측",
+      "owner": "Database Operations",
+      "attachments": [
+        "company/operations/exports/replication_inventory.json"
+      ],
+      "projects": "PRJ-03"
+    },
+    "DOC-INF-05": {
+      "path": "company/operations/DOC-INF-05.md",
+      "title": "CHG-41 네트워크 변경 관측·검토 기록",
+      "status": "관측",
+      "owner": "Network Operations",
+      "attachments": [
+        "company/operations/logs/network-audit.log"
+      ],
+      "projects": "PRJ-03"
+    },
+    "DOC-INF-06": {
+      "path": "company/operations/DOC-INF-06.md",
+      "title": "Pulse 복구 검증·고객 보고 체크시트",
+      "status": "승인됨",
+      "owner": "SRE",
+      "attachments": [],
+      "projects": "PRJ-03"
+    },
+    "DOC-DEV-01": {
+      "path": "company/engineering/DOC-DEV-01.md",
+      "title": "Ledger authorize API 동작 명세",
+      "status": "승인됨",
+      "owner": "Product & Application Lead",
+      "attachments": [],
+      "projects": "PRJ-05"
+    },
+    "DOC-DEV-02": {
+      "path": "company/engineering/DOC-DEV-02.md",
+      "title": "Ledger v1.5 최소 재현 코드",
+      "status": "배포 코드",
+      "owner": "Application Team",
+      "attachments": [
+        "company/engineering/source/authorize_v1_5.py"
+      ],
+      "projects": "PRJ-05"
+    },
+    "DOC-DEV-03": {
+      "path": "company/engineering/DOC-DEV-03.md",
+      "title": "Ledger QA 입력과 관측",
+      "status": "관측",
+      "owner": "QA",
+      "attachments": [
+        "company/engineering/qa/contract_cases.json"
+      ],
+      "projects": "PRJ-05"
+    },
+    "DOC-DEV-04": {
+      "path": "company/engineering/DOC-DEV-04.md",
+      "title": "Ledger 릴리스·롤백 실행 조건",
+      "status": "승인됨",
+      "owner": "Release Manager",
+      "attachments": [],
+      "projects": "PRJ-05"
+    },
+    "DOC-DEV-05": {
+      "path": "company/engineering/DOC-DEV-05.md",
+      "title": "Ledger 원장 반출 기록",
+      "status": "관측",
+      "owner": "QA & Client Operations",
+      "attachments": [
+        "company/engineering/exports/authorization_ledger.csv",
+        "company/engineering/logs/authorize-service.log"
+      ],
+      "projects": "PRJ-05"
+    },
+    "DOC-DEV-06": {
+      "path": "company/engineering/DOC-DEV-06.md",
+      "title": "Ledger 대응·검증 계획 양식",
+      "status": "승인됨",
+      "owner": "Application Lead",
+      "attachments": [],
+      "projects": "PRJ-05"
+    },
+    "DOC-COM-01": {
+      "path": "company/communications/DOC-COM-01.md",
+      "title": "Atlas delivery timing and scope review — customer correspondence",
+      "status": "의견·요청",
+      "owner": "Velora Retail Procurement Contact",
+      "attachments": [],
+      "projects": "PRJ-01"
+    },
+    "DOC-COM-02": {
+      "path": "company/communications/DOC-COM-02.md",
+      "title": "Weekly budget draft and competing priorities — Finance Office memo",
+      "status": "의견·요청",
+      "owner": "Finance Office",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-COM-03": {
+      "path": "company/communications/DOC-COM-03.md",
+      "title": "Pulse access disruption — customer request for incident update",
+      "status": "의견·요청",
+      "owner": "Aeris Health Customer Contact",
+      "attachments": [],
+      "projects": "PRJ-03"
+    },
+    "DOC-COM-04": {
+      "path": "company/communications/DOC-COM-04.md",
+      "title": "Pulse incident observations and availability language — SRE internal note",
+      "status": "의견·요청",
+      "owner": "SRE On-Call",
+      "attachments": [],
+      "projects": "PRJ-03"
+    },
+    "DOC-COM-05": {
+      "path": "company/communications/DOC-COM-05.md",
+      "title": "Ledger retry behavior and idempotency evidence — QA review request",
+      "status": "의견·요청",
+      "owner": "QA Lead",
+      "attachments": [],
+      "projects": "PRJ-05"
+    },
+    "DOC-COM-06": {
+      "path": "company/communications/DOC-COM-06.md",
+      "title": "Portfolio committee minutes — priorities and open funding decision",
+      "status": "의견·요청",
+      "owner": "Portfolio Committee Secretary",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-POL-01": {
+      "path": "company/policies/DOC-POL-01.md",
+      "title": "자료 효력·승인 우선순위 정책",
+      "status": "승인됨",
+      "owner": "Governance",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-POL-02": {
+      "path": "company/policies/DOC-POL-02.md",
+      "title": "정보 보안·자료 처리 정책",
+      "status": "승인됨",
+      "owner": "Security",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-POL-03": {
+      "path": "company/policies/DOC-POL-03.md",
+      "title": "사고 보고·에스컬레이션 정책 및 기록 양식",
+      "status": "승인됨",
+      "owner": "COO",
+      "attachments": [],
+      "projects": "전사"
+    },
+    "DOC-POL-04": {
+      "path": "company/policies/DOC-POL-04.md",
+      "title": "비상 변경·서비스 재개 승인 정책",
+      "status": "승인됨",
+      "owner": "CTO",
+      "attachments": [],
+      "projects": "전사"
+    }
+  },
+  "assets": {
+    "company/people/exports/employee_directory.csv": {
+      "rows": 36,
+      "grain": "employee_id당 현재 인사 마스터 1행",
+      "scope": "36명, 2027-03-08 기준",
+      "bytes": 3013,
+      "sha256": "be994dc5f0b12ab3f6d7daa27a5199c354f1b976abb00f6c89f48522684e46c8"
+    },
+    "company/people/exports/skills_register.csv": {
+      "rows": 108,
+      "grain": "스킬 인증 이력 행",
+      "scope": "기한 만료·자기신고 포함",
+      "bytes": 7546,
+      "sha256": "6877634852d40ba9f0f75badad776e5dcf2ba11bc22384214c33d8ae5540a236"
+    },
+    "company/people/exports/resource_allocations.csv": {
+      "rows": 1296,
+      "grain": "allocation_id별 업무 예약 1행",
+      "scope": "9주, 승인/미승인 업무 예약 포함",
+      "bytes": 125119,
+      "sha256": "c3361cd19c39bb96bbdb7a158fb15b94c8845cdf46f47429ebd4deb2b700be29"
+    },
+    "company/people/exports/leave_requests.csv": {
+      "rows": 648,
+      "grain": "request_id + revision",
+      "scope": "9주, 휴가 신청과 승인/취소 이력",
+      "bytes": 56700,
+      "sha256": "730d2a1ca594e96df6155e45a649791c635e214986a80f6c84c8eac55b44ab07"
+    },
+    "company/people/exports/standard_cost_rates.csv": {
+      "rows": 324,
+      "grain": "employee_id + week_start",
+      "scope": "9주 표준 배부 원가",
+      "bytes": 16919,
+      "sha256": "33b10704e6625749cdbd6d3afe2ef1a59fa0b30db5d623606bcd08e9a53bbc71"
+    },
+    "company/people/exports/pool_authorizations.csv": {
+      "rows": 8,
+      "grain": "employee_id + pool_id + 유효기간",
+      "scope": "이번 주 승인된 투자 인력 풀",
+      "bytes": 540,
+      "sha256": "520746da15292a35fac6222efa49a00a20cab9bb5c09d974ba1d36c6c84575a5"
+    },
+    "company/finance/exports/operating_journal.csv": {
+      "rows": 1331,
+      "grain": "entry_id별 부호 있는 순비용 분개",
+      "scope": "9주·여러 원가센터·초안/확정·취소분개 포함",
+      "bytes": 176846,
+      "sha256": "cb6dba8e7a82707932ffac494ad36fe7d8553330b29f52a26f71e34a1df4d599"
+    },
+    "company/finance/exports/budget_workflow.csv": {
+      "rows": 108,
+      "grain": "document_id + revision",
+      "scope": "9주 결재 문서 이력; 신규 초안도 함께 반출",
+      "bytes": 10396,
+      "sha256": "d8096206f1c66a5eb6142b12e4e1cd96ea07e9131e4c1b3b258dbb1d3cd092d4"
+    },
+    "company/projects/exports/investment_register.csv": {
+      "rows": 54,
+      "grain": "week_start + package_id",
+      "scope": "주별 검토 대상 패키지 카탈로그; 실행 승인은 별도",
+      "bytes": 4199,
+      "sha256": "f9f60ec98b64e275b1c1c33e37a387bfd7a24399459076e23bc0f5ce99dca709"
+    },
+    "company/projects/exports/resource_requirements.csv": {
+      "rows": 81,
+      "grain": "week_start + package_id + skill",
+      "scope": "주별 업무에 필요한 스킬시간",
+      "bytes": 2665,
+      "sha256": "cdc6149037951ee6b4a92e3271adb7e84d8a5a6f8bfda0efb969ca376d34d079"
+    },
+    "company/projects/exports/package_cost_estimates.csv": {
+      "rows": 108,
+      "grain": "week_start + package_id + cost_item",
+      "scope": "주별 복수 비용 항목; 세금 제외",
+      "bytes": 5789,
+      "sha256": "6a4ae78efa42bfb54dd424a457bde66130187110cff91d98f76e50f99a1a8812"
+    },
+    "company/projects/exports/work_items.csv": {
+      "rows": 756,
+      "grain": "snapshot_at + project_id + task_id",
+      "scope": "9주·7개 프로젝트 정기 스냅샷",
+      "bytes": 80266,
+      "sha256": "b5a40e2a74037be8d90c34d416002825fab61f86c8ac4cd023ee69b462c2a468"
+    },
+    "company/operations/logs/collector-20270308-part1.jsonl": {
+      "rows": 6039,
+      "grain": "수집 이벤트 1행; event_id 재전송 가능",
+      "scope": "07:00~09:00 KST 여러 프로젝트/환경. 수신 순서로 저장",
+      "bytes": 1734432,
+      "sha256": "72a8b375a8b44debb323637363eb9c3ff3b5a524ff4d1831526ecd911f596a31"
+    },
+    "company/operations/logs/collector-20270308-part2.jsonl": {
+      "rows": 6038,
+      "grain": "수집 이벤트 1행; event_id 재전송 가능",
+      "scope": "07:00~09:00 KST 여러 프로젝트/환경. 수신 순서로 저장",
+      "bytes": 1735310,
+      "sha256": "2875eae43fa8c2a14a70ed0e312654fee923a22eaf367e1ab4cd4303a70f063a"
+    },
+    "company/operations/logs/collector-20270308-part3.jsonl": {
+      "rows": 6038,
+      "grain": "수집 이벤트 1행; event_id 재전송 가능",
+      "scope": "07:00~09:00 KST 여러 프로젝트/환경. 수신 순서로 저장",
+      "bytes": 1734814,
+      "sha256": "c3937c9ddab6ba3b02a2b38321e700f6dcdb2c7b142a0d3514d03bb302abd030"
+    },
+    "company/operations/exports/replication_inventory.json": {
+      "rows": 4,
+      "grain": "snapshot_at + project_id + environment",
+      "scope": "관측 스냅샷; replay/복구 실행 완료 기록 아님",
+      "bytes": 1870,
+      "sha256": "4a5817522074403ee1015902c419f9cb32461ef2b497fd006929c3bd52b5780a"
+    },
+    "company/operations/logs/network-audit.log": {
+      "rows": 181,
+      "grain": "audit_id당 작업 이벤트",
+      "scope": "조회·변경 혼재; 장애 원인 진단 결과 없음",
+      "bytes": 24510,
+      "sha256": "b7311b3f55068a9740ea6f4c78ea3d476c5c960f359ccf4076d623bb88332d8a"
+    },
+    "company/engineering/exports/authorization_ledger.csv": {
+      "rows": 12004,
+      "grain": "row_id당 확정 원장 1행",
+      "scope": "ap-1 shard, 03-07~03-08 08:59까지 반출 가능한 행. 전 세계 전체 영향 모집단 아님",
+      "bytes": 1035380,
+      "sha256": "02b0c8a04b10fd3a2dbc44f73a9596e24e31d26a072ce312b945c70f83cfcf5c"
+    },
+    "company/engineering/logs/authorize-service.log": {
+      "rows": 12002,
+      "grain": "HTTP/application 요청 이벤트",
+      "scope": "ap-1 일부 요청·재시도·응답 지연 기록; 로그 도착 순서",
+      "bytes": 1741456,
+      "sha256": "1abc04428d2c870828df75b6e3c86ed7f16de533d0be178dcec5c8fa03b5c340"
+    },
+    "company/engineering/source/authorize_v1_5.py": {
+      "rows": null,
+      "grain": "제공되는 최소 재현 모듈",
+      "scope": "단일 프로세스 순차 호출, 운영 접속 없음",
+      "bytes": 541,
+      "sha256": "550dd3834b34d4b09b2d251e9e52ba220b9429bf05ffd2cb65470886df1e2f43"
+    },
+    "company/engineering/qa/contract_cases.json": {
+      "rows": 5,
+      "grain": "QA 케이스",
+      "scope": "v1.5 회귀 관측; 기대 동작은 API 명세 참조",
+      "bytes": 1558,
+      "sha256": "aeaa7ba9bd4b56a1ab5db31053d44116fcf499cf0efc29fc8106ec1dabcc4146"
+    }
+  }
+}
